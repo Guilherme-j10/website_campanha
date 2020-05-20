@@ -29,7 +29,7 @@
                             <input type="text" name="ask" placeholder="Pesquise...">
                             <button><i class="fas fa-search"></i></button>
                     </form>
-                    <!-- <a style="cursor: pointer;" id="start">COMEÇAR AGORA</a> -->
+                    <!-- <a style="cursor: pointer;">COMEÇAR AGORA</a> -->
                 </div>
             </header>
             <div class="fique">
@@ -47,17 +47,17 @@
             </section>
             <article>
                 <div class="card_link">
-                    <a>
+                    <a style="cursor: pointer;">
                         <span><i class="fas fa-map-marked-alt"></i></span>
                         <h2>LOCAIS DE ATENDIMENTO</h2>
                         <p>Com os videos tutoriais você pode obter toda a ajuda que você precisa para aprender e enteder como funciona os aplicativos de celular</p>
                     </a>
-                    <a>
+                    <a style="cursor: pointer;" id="start">
                         <span><i class="fas fa-people-carry"></i></span>
                         <h2>CAMPANHAS</h2>
                         <p>As duvidas frequentes estão presentes para ajudar você, por se tratar duvidas comuns talvez possa ser a sua caso tenha alguma.</p>
                     </a>
-                    <a>
+                    <a style="cursor: pointer;">
                         <span><i class="fas fa-gavel"></i></span>
                         <h2>OS SEUS DIREITOS</h2>
                         <p>Com o material passo a passo você pode acompanhar todo o conteudo do vide em uma mini apostila PDF.</p>
@@ -96,7 +96,7 @@
                                     <a href="#" class="question"><i class="far fa-question-circle"></i></a>
                                     <a href="#"><i class="far fa-file-pdf"></i> Baixar PDF</a>
                                 </div>
-                                <p style="color: #ccc;">Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur dolor eligendi esse ipsa distinctio, ipsam, in repellat dignissimos veritatis fugit eius iure nihil laudantium? Lorem ipsum dolor sit, amet consectetur adipisicing elit. A ut odit commodi tempora libero aperiam ipsam ullam quisquam nisi. Provident modi quaerat natus delectus enim alias tenetur accusamus sint repellat! Quo illo sapiente ea sequi! ipsum dolor sit amet consectetur adipisicing elit. Fugiat, doloribus, ducimus cum enim provident eos perferendis nam commodi deserunt aspernatur molestias atque aperiam facere ipsa, corrupti blanditiis. Saepe, nesciunt perferendis.</p>
+                                <p>Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur dolor eligendi esse ipsa distinctio, ipsam, in repellat dignissimos veritatis fugit eius iure nihil laudantium? Lorem ipsum dolor sit, amet consectetur adipisicing elit. A ut odit commodi tempora libero aperiam ipsam ullam quisquam nisi. Provident modi quaerat natus delectus enim alias tenetur accusamus sint repellat! Quo illo sapiente ea sequi! ipsum dolor sit amet consectetur adipisicing elit. Fugiat, doloribus, ducimus cum enim provident eos perferendis nam commodi deserunt aspernatur molestias atque aperiam facere ipsa, corrupti blanditiis. Saepe, nesciunt perferendis.</p>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                                     <a href="#" class="question"><i class="far fa-question-circle"></i></a>
                                     <a href="#"><i class="far fa-file-pdf"></i> Baixar PDF</a>
                                 </div>
-                                <p style="color: #ccc;">Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur dolor eligendi esse ipsa distinctio, ipsam, in repellat dignissimos veritatis fugit eius iure nihil laudantium? Lorem ipsum dolor sit, amet consectetur adipisicing elit. A ut odit commodi tempora libero aperiam ipsam ullam quisquam nisi. Provident modi quaerat natus delectus enim alias tenetur accusamus sint repellat! Quo illo sapiente ea sequi! ipsum dolor sit amet consectetur adipisicing elit. Fugiat, doloribus, ducimus cum enim provident eos perferendis nam commodi deserunt aspernatur molestias atque aperiam facere ipsa, corrupti blanditiis. Saepe, nesciunt perferendis.</p>
+                                <p>Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur dolor eligendi esse ipsa distinctio, ipsam, in repellat dignissimos veritatis fugit eius iure nihil laudantium? Lorem ipsum dolor sit, amet consectetur adipisicing elit. A ut odit commodi tempora libero aperiam ipsam ullam quisquam nisi. Provident modi quaerat natus delectus enim alias tenetur accusamus sint repellat! Quo illo sapiente ea sequi! ipsum dolor sit amet consectetur adipisicing elit. Fugiat, doloribus, ducimus cum enim provident eos perferendis nam commodi deserunt aspernatur molestias atque aperiam facere ipsa, corrupti blanditiis. Saepe, nesciunt perferendis.</p>
                             </div>
                         </div>
                     </div>

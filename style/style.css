@@ -204,7 +204,7 @@
 .modal_website {
   position: fixed;
   width: 100vw;
-  background-color: #1b1b1d;
+  background-color: #fff;
   top: 80px;
   left: 220vh;
   transition: all linear .2s;
@@ -219,7 +219,7 @@
       justify-content: flex-start;
       align-items: center; }
       .modal_website .scroll header a {
-        color: #fff;
+        color: #333;
         font-size: 1.1em; }
         .modal_website .scroll header a i {
           margin-right: 10px; }
@@ -267,7 +267,7 @@
         align-items: flex-start;
         flex-direction: column;
         margin-bottom: 30px;
-        border-bottom: solid 1px #363434;
+        border-bottom: solid 1px #ccc;
         padding-bottom: 50px;
         padding-top: 20px; }
         .modal_website .scroll article .videoaula .header {
@@ -308,7 +308,7 @@
                 z-index: 1;
                 border-radius: 3px; }
           .modal_website .scroll article .videoaula .header h2 {
-            color: #fff;
+            color: #333;
             font-weight: bold; }
         .modal_website .scroll article .videoaula .video {
           display: flex;
@@ -350,7 +350,7 @@
                   margin-right: 0px; }
             .modal_website .scroll article .videoaula .video .info p {
               font-weight: 300;
-              color: #fff;
+              color: #555;
               text-align: justify; }
 
 .out {

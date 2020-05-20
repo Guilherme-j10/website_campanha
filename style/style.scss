@@ -289,7 +289,7 @@ $cor_con: #0acc9e;
 .modal_website{
     position: fixed;
     width: 100vw;
-    background-color: #1b1b1d;
+    background-color: #fff;
     top: 80px;
     //left: 0vh;
     left: 220vh;
@@ -308,7 +308,7 @@ $cor_con: #0acc9e;
             align-items: center;
 
             a{
-                color: #fff;
+                color: #333;
                 font-size: 1.1em;
 
                 i{
@@ -372,7 +372,7 @@ $cor_con: #0acc9e;
                 align-items: flex-start;
                 flex-direction: column;
                 margin-bottom: 30px;
-                border-bottom: solid 1px #363434;
+                border-bottom: solid 1px #ccc;
                 padding-bottom: 50px;
                 padding-top: 20px;
                 
@@ -423,7 +423,7 @@ $cor_con: #0acc9e;
                     }
 
                     h2{
-                        color: #fff;
+                        color: #333;
                         font-weight: bold;
                     }
                 }
@@ -486,7 +486,7 @@ $cor_con: #0acc9e;
 
                         p{
                             font-weight: 300;
-                            color: #fff;
+                            color: #555;
                             text-align: justify;
                         }
                     }
