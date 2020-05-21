@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700&display=swap");
 * {
   margin: 0px;
   padding: 0px;
@@ -9,7 +9,7 @@
   list-style: none;
   scroll-behavior: smooth;
   text-decoration: none;
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Jost', sans-serif; }
   * ::-webkit-scrollbar {
     width: 0px; }
   * body img {
@@ -130,7 +130,7 @@
     flex-direction: column; }
     .website .help_banner h1 {
       color: #333;
-      font-weight: 600;
+      font-weight: 400;
       margin-bottom: 20px;
       font-size: 2.4em; }
     .website .help_banner p {
@@ -190,13 +190,13 @@
         .website article .card_link a h2 {
           margin-top: 25px;
           font-size: 1.2em;
-          font-weight: 600;
+          font-weight: 400;
           color: #111; }
         .website article .card_link a p {
           font-size: 1em;
           font-weight: 300;
           margin-top: 10px;
-          color: #333; }
+          color: #222; }
         .website article .card_link a:hover {
           transform: scale(1.1);
           box-shadow: 10px 10px 40px 1px #999; }
@@ -205,55 +205,46 @@
   position: fixed;
   width: 100vw;
   background-color: #fff;
-  top: 80px;
+  top: 88px;
   left: 220vh;
-  transition: all linear .2s;
-  padding: 0% 8%; }
+  transition: all linear .2s; }
   .modal_website .scroll {
     height: 100vh;
-    padding: 2.5% 0%;
+    padding-bottom: 3.5%;
     overflow: scroll; }
-    .modal_website .scroll header {
+    .modal_website .scroll .cabecalho {
       width: 100%;
-      display: flex;
-      justify-content: flex-start;
-      align-items: center; }
-      .modal_website .scroll header a {
-        color: #333;
-        font-size: 1.1em; }
-        .modal_website .scroll header a i {
-          margin-right: 10px; }
-      .modal_website .scroll header ul {
+      background: linear-gradient(45deg, #0acc9e, #05a37e);
+      padding: 2% 16%; }
+      .modal_website .scroll .cabecalho span {
+        width: 100%;
         display: flex;
-        justify-content: flex-start;
-        margin-left: 50px;
-        align-items: center; }
-        .modal_website .scroll header ul li {
-          margin-right: 20px; }
-          .modal_website .scroll header ul li a {
-            background-color: #0acc9e;
-            display: block;
-            color: #333;
-            width: 40px;
-            height: 40px;
-            border-radius: 50px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            position: relative; }
-            .modal_website .scroll header ul li a p {
-              z-index: 2;
-              font-weight: 600; }
-            .modal_website .scroll header ul li a:before {
-              content: '';
-              width: 20px;
-              position: absolute;
-              height: 20px;
-              background-color: #0acc9e;
-              margin-top: 10px;
-              margin-left: 9.9px;
-              z-index: 1;
-              border-radius: 3px; }
+        justify-content: space-between;
+        align-items: center;
+        color: #fff;
+        margin-bottom: 10px; }
+        .modal_website .scroll .cabecalho span p i {
+          margin-right: 10px; }
+        .modal_website .scroll .cabecalho span a {
+          color: #fff;
+          letter-spacing: 2px; }
+          .modal_website .scroll .cabecalho span a i {
+            margin-right: 10px; }
+      .modal_website .scroll .cabecalho h1 {
+        font-weight: bold;
+        color: #fff; }
+    .modal_website .scroll .text {
+      width: 100%;
+      padding: 2.5% 16%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column; }
+      .modal_website .scroll .text img {
+        margin-bottom: 25px; }
+      .modal_website .scroll .text p {
+        text-align: justify;
+        margin-bottom: 15px; }
     .modal_website .scroll article {
       margin-top: 60px;
       width: 100%;

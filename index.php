@@ -52,12 +52,12 @@
                         <h2>LOCAIS DE ATENDIMENTO</h2>
                         <p>Com os videos tutoriais você pode obter toda a ajuda que você precisa para aprender e enteder como funciona os aplicativos de celular</p>
                     </a>
-                    <a style="cursor: pointer;" id="start">
+                    <a style="cursor: pointer;">
                         <span><i class="fas fa-people-carry"></i></span>
                         <h2>CAMPANHAS</h2>
                         <p>As duvidas frequentes estão presentes para ajudar você, por se tratar duvidas comuns talvez possa ser a sua caso tenha alguma.</p>
                     </a>
-                    <a style="cursor: pointer;">
+                    <a style="cursor: pointer;" id="start">
                         <span><i class="fas fa-gavel"></i></span>
                         <h2>OS SEUS DIREITOS</h2>
                         <p>Com o material passo a passo você pode acompanhar todo o conteudo do vide em uma mini apostila PDF.</p>
@@ -67,61 +67,31 @@
         </main>
         <main class="modal_website" id="modal">
             <div class="scroll">
-                <header>
-                    <a style="cursor: pointer;" id="hidden"><i class="fas fa-long-arrow-alt-left"></i> VOLTAR</a>
-                    <ul>
-                        <li><a href="#um"><p>1</p></a></li>
-                        <li><a href="#dois"><p>2</p></a></li>
-                        <li><a href="#"><p>3</p></a></li>
-                        <li><a href="#"><p>4</p></a></li>
-                        <li><a href="#"><p>5</p></a></li>
-                        <li><a href="#"><p>6</p></a></li>
-                    </ul>
-                </header>
-                <article>
-                    <div class="videoaula" id="um">
-                        <div class="header">
-                            <span>
-                                <h1><p>1</p></h1>
-                                <h2>SAIBA COMO FUNCIONA O SISTEMA ANDROID</h2>
-                            </span>
-                        </div>
-                        <div class="video">
-                            <iframe width="660" height="215" src="https://www.youtube.com/embed/8mZA9hNz1gY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <div class="info">
-                                <div class="header_info">
-                                    <p><i class="fas fa-user"></i> José Guilherme</p>
-                                    <p><i class="fas fa-clock"></i> 3m</p>
-                                    <p><i class="fas fa-calendar-minus"></i> 14/04/2020</p>
-                                    <a href="#" class="question"><i class="far fa-question-circle"></i></a>
-                                    <a href="#"><i class="far fa-file-pdf"></i> Baixar PDF</a>
-                                </div>
-                                <p>Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur dolor eligendi esse ipsa distinctio, ipsam, in repellat dignissimos veritatis fugit eius iure nihil laudantium? Lorem ipsum dolor sit, amet consectetur adipisicing elit. A ut odit commodi tempora libero aperiam ipsam ullam quisquam nisi. Provident modi quaerat natus delectus enim alias tenetur accusamus sint repellat! Quo illo sapiente ea sequi! ipsum dolor sit amet consectetur adipisicing elit. Fugiat, doloribus, ducimus cum enim provident eos perferendis nam commodi deserunt aspernatur molestias atque aperiam facere ipsa, corrupti blanditiis. Saepe, nesciunt perferendis.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="videoaula" id="dois">
-                        <div class="header">
-                            <span>
-                                <h1><p>2</p></h1>
-                                <h2>SAIBA COMO FUNCIONA O SISTEMA ANDROID</h2>
-                            </span>
-                        </div>
-                        <div class="video">
-                            <iframe width="660" height="215" src="https://www.youtube.com/embed/8mZA9hNz1gY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <div class="info">
-                                <div class="header_info">
-                                    <p><i class="fas fa-user"></i> José Guilherme</p>
-                                    <p><i class="fas fa-clock"></i> 3m</p>
-                                    <p><i class="fas fa-calendar-minus"></i> 14/04/2020</p>
-                                    <a href="#" class="question"><i class="far fa-question-circle"></i></a>
-                                    <a href="#"><i class="far fa-file-pdf"></i> Baixar PDF</a>
-                                </div>
-                                <p>Lorem  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad consectetur dolor eligendi esse ipsa distinctio, ipsam, in repellat dignissimos veritatis fugit eius iure nihil laudantium? Lorem ipsum dolor sit, amet consectetur adipisicing elit. A ut odit commodi tempora libero aperiam ipsam ullam quisquam nisi. Provident modi quaerat natus delectus enim alias tenetur accusamus sint repellat! Quo illo sapiente ea sequi! ipsum dolor sit amet consectetur adipisicing elit. Fugiat, doloribus, ducimus cum enim provident eos perferendis nam commodi deserunt aspernatur molestias atque aperiam facere ipsa, corrupti blanditiis. Saepe, nesciunt perferendis.</p>
-                            </div>
-                        </div>
-                    </div>
-                </article>
+                <div class="cabecalho">
+                    <span>
+                        <p><i class="fas fa-gavel"></i>DIREITOS</p>
+                        <a style="cursor: pointer;" id="hidden"><i class="fas fa-long-arrow-alt-left"></i> VOLTAR</a>
+                    </span> 
+                    <h1>Saiba quais são seus direitos.</h1>
+                </div> 
+                <div class="text">
+                    <img src="img/direitos.jpeg" alt="direitos">
+                    <p>A saúde é um estado de bem-estar inerente a todo ser humano, é considerado essencial para a
+                        execução e garantia dos demais direitos existentes, como a efetivação de uma vida digna. O
+                        direito à saúde, presente na Constituição Federal de 1988, é fundamental para a estruturação
+                        uma sociedade, além da promoção da qualidade e expectativa de vida, primordial para o
+                        funcionamento e desenvolvimento de uma nação.</p>
+                    <p>A partir do pressuposto da saúde como sendo um direito fundamental do homem, pois
+                        garante o direito á vida e dignidade, nota-se que ao longo da Constituição é ressaltado diversas
+                        vezes a sua garantia a todo e qualquer ser humano, ou seja, independentemente de suas
+                        incapacidades e debilidades, por sua vez irrelevantes na definição de humanidade. Baseando-
+                        se nessa ideologia é que ocorreu a construção SUS, seus princípios e os demais sistemas de
+                        saúde, com a finalidade de promover assistência e tratamento de qualidade respeitando e
+                        levando em consideração as particularidades e diferenças de cada um. Diante disso, surge ao
+                        longo da história dos serviços de saúde a criação de leis para garantir pragmaticamente a
+                        defesa do acesso da comunidade surda, hoje totalizando um número progressivamente
+                        crescente.</p>
+                </div>
             </div>
         </main>
         <script>
