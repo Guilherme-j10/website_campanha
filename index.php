@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="robots" content="index follow">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>site</title>
+        <title>Dimensão surda</title>
         <link rel="stylesheet" href="style/style.css">
         <script src="https://kit.fontawesome.com/353c2a62b7.js" crossorigin="anonymous"></script>
     </head>
@@ -124,6 +124,21 @@
                 </div>
                 <div class="article"> 
                     <div class="text">
+                        <h1 id="audio">O QUE É DEFICIENCIA AUDITIVA </h1>
+                        <img src="img/surdo.jpeg" alt="">
+                        <p>Surdez ou Deficiência Auditiva é o nome dado à impossibilidade ou dificuldade de ouvir. A audição é constituída por um sistema de canais que conduz o som até o ouvido interno, onde essas ondas são transformadas em estímulos elétricos que são enviados ao cérebro, órgão responsável pelo reconhecimento e identificação daquilo que ouvimos.</p>
+                        <p>- Tipos de Surdez</p>
+                        <p>Ligeira: A palavra é ouvida, contudo certos elementos fonéticos escapam ao indivíduo;</p>
+                        <p>Média: A palavra só é ouvida a uma intensidade forte, além de evidenciar dificuldades na aquisição da linguagem e necessidade de leitura labial para a compreensão do que é dito;</p>
+                        <p>Severa: A palavra em tom normal não é percebida, torna-se necessário gritar para ter alguma sensação auditiva;</p>
+                        <p>Profunda: Nenhuma sensação auditiva, além da dificuldade intensa na aquisição da linguagem oral, evidenciando o domínio pela linguagem gestual;</p>
+                        <p>- Principais causas</p>
+                        <p>Casos de surdez na família, nascimento prematuro, baixo peso ao nascer, uso de antibióticos tóxicos ao ouvido e de diuréticos no berçário e infecções congênitas, principalmente, sífilis, toxoplasmose e rubéola.</p>
+                        <div class="iframe">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/al2loK6QvDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <small>Video explicativo sobre Surdez</small>
+                        </div>
+
                         <h1 id="mulher">SAÚDE DA MULHER</h1>
                         <img src="img/WhatsApp Image 2020-05-24 at 19.15.42.jpeg" alt="asd">
                         <h2>Exames de rastreamento</h2>
@@ -182,7 +197,8 @@
                                 <small>Video explicativo em libras sobre exame de mama</small>
                             </div>
                         <hr>
-                        <h2 style="margin-top: 40px;">Métodos contraceptivos</h2>
+
+                        <h1 style="margin-top: 40px;" id="mc">Métodos contraceptivos</h1>
                         <p>Atualmente, existem diversos métodos contraceptivos disponíveis para evitar uma gravidez indesejada e até mesmo infecções sexualmente transmissíveis (IST).</p>
                         <p>O Sistema Único de Saúde (SUS) acaba tendo papel fundamental na distribuição de tais métodos, como a Pílula Combinada, a Anticoncepção de Emergência, a mini-pílula, a anticoncepcional injetável mensal e trimestral, e o diafragma, assim como preservativo feminino e masculino.</p>
                         <img src="img/5.jpg" alt="">
@@ -497,21 +513,6 @@
                         <p>- Em todas as consultas de rotina, o profissional de saúde deve avaliar e orientar sobre: </p>
                         <p>Alimentação da criança, Peso, comprimento ou altura e perímetro cefálico (este último até os 2 anos), Vacinas, Desenvolvimento, Prevenção de acidentes, Identificação de problemas ou riscos para a saúde, entre Outros cuidados para uma boa saúde.</p>
 
-                        <h1 id="audio">O QUE É DEFICIENCIA AUDITIVA </h1>
-                        <img src="img/surdo.jpeg" alt="">
-                        <p>Surdez ou Deficiência Auditiva é o nome dado à impossibilidade ou dificuldade de ouvir. A audição é constituída por um sistema de canais que conduz o som até o ouvido interno, onde essas ondas são transformadas em estímulos elétricos que são enviados ao cérebro, órgão responsável pelo reconhecimento e identificação daquilo que ouvimos.</p>
-                        <p>- Tipos de Surdez</p>
-                        <p>Ligeira: A palavra é ouvida, contudo certos elementos fonéticos escapam ao indivíduo;</p>
-                        <p>Média: A palavra só é ouvida a uma intensidade forte, além de evidenciar dificuldades na aquisição da linguagem e necessidade de leitura labial para a compreensão do que é dito;</p>
-                        <p>Severa: A palavra em tom normal não é percebida, torna-se necessário gritar para ter alguma sensação auditiva;</p>
-                        <p>Profunda: Nenhuma sensação auditiva, além da dificuldade intensa na aquisição da linguagem oral, evidenciando o domínio pela linguagem gestual;</p>
-                        <p>- Principais causas</p>
-                        <p>Casos de surdez na família, nascimento prematuro, baixo peso ao nascer, uso de antibióticos tóxicos ao ouvido e de diuréticos no berçário e infecções congênitas, principalmente, sífilis, toxoplasmose e rubéola.</p>
-                        <div class="iframe">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/al2loK6QvDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <small>Video explicativo sobre Surdez</small>
-                        </div>
-
                         <h1 id="hiv">Combate HIV/AIDS</h1>
                         <img src="img/hiv.jpeg" alt="">
                         <p>HIV ou aids, qual a diferenças ?</p>
@@ -527,11 +528,12 @@
                     <div class="aside">
                         <h1>Conteúdo</h1>
                         <ul>
+                            <li><a href="#audio">O que é deficiencia auditiva</a></li>
                             <li><a href="#mulher">Saúde da Mulher</a></li>
+                            <li><a href="#mc">Métodos contraceptivo</a></li>
                             <li><a href="#homem">Saúde do Homem</a></li>
                             <li><a href="#crinca">Saúde da Criança</a></li>
                             <li><a href="#idoso">Saúde do Idoso</a></li>
-                            <li><a href="#audio">O que é deficiencia auditiva</a></li>
                             <li><a href="#hiv">Combate HIV/AIDS</a></li>
                         </ul>
                     </div>
