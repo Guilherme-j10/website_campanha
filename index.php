@@ -550,8 +550,8 @@
                 <div class="local">
                     <?php
 
-                        //$conteudo = file_get_contents('locais.json');
-                        //$json = json_decode($conteudo, true);
+                        $conteudo = file_get_contents('locais.json');
+                        $json = json_decode($conteudo, true);
 
                         $length = count($json["locais"]);
                         for($i = 0; $i < $length; $i++){
