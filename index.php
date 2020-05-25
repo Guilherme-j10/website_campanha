@@ -74,37 +74,41 @@
                     </span> 
                     <h1>Saiba quais são seus direitos.</h1>
                 </div> 
-                <div class="text">
-                    <img src="img/direitos.jpeg" alt="direitos">
-                    <p>A saúde é um estado de bem-estar inerente a todo ser humano, é considerado essencial para a
-                        execução e garantia dos demais direitos existentes, como a efetivação de uma vida digna. O
-                        direito à saúde, presente na Constituição Federal de 1988, é fundamental para a estruturação
-                        uma sociedade, além da promoção da qualidade e expectativa de vida, primordial para o
-                        funcionamento e desenvolvimento de uma nação.</p>
-                    <p>A partir do pressuposto da saúde como sendo um direito fundamental do homem, pois
-                        garante o direito á vida e dignidade, nota-se que ao longo da Constituição é ressaltado diversas
-                        vezes a sua garantia a todo e qualquer ser humano, ou seja, independentemente de suas
-                        incapacidades e debilidades, por sua vez irrelevantes na definição de humanidade. Baseando-
-                        se nessa ideologia é que ocorreu a construção SUS, seus princípios e os demais sistemas de
-                        saúde, com a finalidade de promover assistência e tratamento de qualidade respeitando e
-                        levando em consideração as particularidades e diferenças de cada um. Diante disso, surge ao
-                        longo da história dos serviços de saúde a criação de leis para garantir pragmaticamente a
-                        defesa do acesso da comunidade surda, hoje totalizando um número progressivamente
-                        crescente.</p>
-                    <p>LEI 10.098/2002 Estabelece normas gerais e critérios básicos para a promoção da
-                        acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida.</p>
-                    <p>LEI n°10.436/2002 Art. 2° Estabelece e garante legalmente em todo o território brasileiro, a
-                        presença obrigatória de intérpretes de língua de sinais em serviços públicos de assistência à
-                        saúde;</p>  
-                    <p style="width: 100%; text-align: left;">Art. 3° Garante o tratamento e assistência à saúde de qualidade aos portadores de deficiência
-                        auditiva.</p>     
-                    <iframe width="560" style="margin-bottom: 15px;" height="315" src="https://www.youtube.com/embed/WqUexIfQ_aQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-                    <p>LEI 2.073/2004 Denominada de Política Nacional de Atenção à Saúde Auditiva (PNASA),
-                        marcada como um lei específica a Constituição 1988, vem para empregar e enfatizar o direito
-                        que a comunidade surda tem em relação a saúde.</p>
-                    <p>DECRETO 5.626/2005 Regulamenta a lei 10.098/02 e a lei 10.436/02 para determinar a
-                        obrigatoriedade da organização do SUS para o atendimento da comunidade surda.</p>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/QW_InPRegTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
+                <div class="article">
+                    <div class="text" style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column;">
+                        <img src="img/direitos.jpeg" alt="direitos">
+                        <p>A saúde é um estado de bem-estar inerente a todo ser humano, é considerado essencial para a
+                            execução e garantia dos demais direitos existentes, como a efetivação de uma vida digna. O
+                            direito à saúde, presente na Constituição Federal de 1988, é fundamental para a estruturação
+                            uma sociedade, além da promoção da qualidade e expectativa de vida, primordial para o
+                            funcionamento e desenvolvimento de uma nação.</p>
+                        <p>A partir do pressuposto da saúde como sendo um direito fundamental do homem, pois
+                            garante o direito á vida e dignidade, nota-se que ao longo da Constituição é ressaltado diversas
+                            vezes a sua garantia a todo e qualquer ser humano, ou seja, independentemente de suas
+                            incapacidades e debilidades, por sua vez irrelevantes na definição de humanidade. Baseando-
+                            se nessa ideologia é que ocorreu a construção SUS, seus princípios e os demais sistemas de
+                            saúde, com a finalidade de promover assistência e tratamento de qualidade respeitando e
+                            levando em consideração as particularidades e diferenças de cada um. Diante disso, surge ao
+                            longo da história dos serviços de saúde a criação de leis para garantir pragmaticamente a
+                            defesa do acesso da comunidade surda, hoje totalizando um número progressivamente
+                            crescente.</p>
+                        <p>LEI 10.098/2002 Estabelece normas gerais e critérios básicos para a promoção da
+                            acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida.</p>
+                        <p>LEI n°10.436/2002 Art. 2° Estabelece e garante legalmente em todo o território brasileiro, a
+                            presença obrigatória de intérpretes de língua de sinais em serviços públicos de assistência à
+                            saúde;</p>  
+                        <p style="width: 100%; text-align: left;">Art. 3° Garante o tratamento e assistência à saúde de qualidade aos portadores de deficiência
+                            auditiva.</p>     
+                        <iframe width="560" style="margin-bottom: 15px;" height="315" src="https://www.youtube.com/embed/WqUexIfQ_aQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                        <small>Video explicativo em libras sobre a lei 10.436/02</small>
+                            <p>LEI 2.073/2004 Denominada de Política Nacional de Atenção à Saúde Auditiva (PNASA),
+                            marcada como um lei específica a Constituição 1988, vem para empregar e enfatizar o direito
+                            que a comunidade surda tem em relação a saúde.</p>
+                        <p>DECRETO 5.626/2005 Regulamenta a lei 10.098/02 e a lei 10.436/02 para determinar a
+                            obrigatoriedade da organização do SUS para o atendimento da comunidade surda.</p>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/QW_InPRegTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
+                        <small>Video explicativo em libras sobre o decreto 5.626/2005</small>       
+                    </div>
                 </div>
             </div>
         </main>
@@ -564,7 +568,6 @@
                             <?php echo $json["locais"][$i]["iframe"] ?>
                         </div>
                     <?php
-                        sleep(0.9);
                         }
                     ?>
                 </div>
