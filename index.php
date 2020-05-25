@@ -36,8 +36,8 @@
                 <p>#FIQUEEMCASA <i class="fas fa-home"></i></p>
             </div>
             <section class="help_banner">
-                <h1>SAIBA O PORQUE EXISTIMOS</h1>
-                <p>Seja bem-vindo a essa dimensão que é dedicada exclusivamente a você da comunidade surda. Nosso objetivo é incluir vocês dentro do nosso programa de informações de saúde onde encontrará tudo o que preicsar para manter o equilíbrio do seu corpo. fique a vontade e navegue em nosso site.</p>
+                <h1>QUEM SOMOS NÓS ?</h1>
+                <p>Seja bem-vindo a essa dimensão que é dedicada exclusivamente a você da comunidade surda. Nosso objetivo é incluir vocês dentro do nosso programa de informações de saúde onde encontrará tudo o que preicsar para manter o equilíbrio do seu corpo. <strong style="font-weight: bold;">fique a vontade e navegue em nosso site.</strong></p>
                 <!-- <form method="post">
                     <div class="search_box">
                         <input type="text" name="ask" placeholder="Search">
@@ -50,7 +50,7 @@
                     <a style="cursor: pointer;" id="start_local"> 
                         <span><i class="fas fa-map-marked-alt"></i></span>
                         <h2>LOCAIS DE ATENDIMENTO</h2>
-                        <p>A Dimensão Surda traz os locais públicos  de atendimento para os surdos, confira alguns aqui.</p>
+                        <p>A Dimensão Surda trás os locais públicos  de atendimento para os surdos, confira alguns aqui.</p>
                     </a>
                     <a style="cursor: pointer;" id="start_campanha">
                         <span><i class="fas fa-people-carry"></i></span>
