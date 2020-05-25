@@ -1,0 +1,79 @@
+{
+    "locais": [''
+        {
+            "nome_local": "Descomplica SP São Miguel Paulista",
+            "nombre_rua": "Rua Dona Ana flora pinheiro de souza, 76",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.8908989839056!2d-46.453268885023355!3d-23.500438884713176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6168e6be1773%3A0x1ec8e5f09f1414f9!2sR.%20Da.%20Ana%20Flora%20Pinheiro%20De%20Souza%2C%2076!5e0!3m2!1spt-BR!2sbr!4v1590363637771!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>"
+        },
+        {
+            "nome_local": "SMPED",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.6338932228728!2d-46.63829398502263!3d-23.545666684690733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c51a7c0587%3A0x9099d88d0ec29596!2sR.%20L%C3%ADbero%20Badar%C3%B3%2C%20425%20-%20Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001010-001!5e0!3m2!1spt-BR!2sbr!4v1590363702653!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Líbero Badaró, 425 - 32oand"
+        },
+        {
+            "nome_local": "Balcão da PMSP",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.5845340502237!2d-46.63951198502234!3d-23.547440984689814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5853654bdc13%3A0x6a2df3a8f3b0b662!2sViaduto%20do%20Ch%C3%A1%2C%2015%20-%20Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001002-020!5e0!3m2!1spt-BR!2sbr!4v1590363731606!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Viaduto do Cha, 15"
+        },
+        {
+            "nome_local": "Defensoria Pública Liberdade",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.423607640739!2d-46.63728838502238!3d-23.553224884686834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59a962969ac5%3A0xb485e1c97d5f5da9!2sAv.%20da%20Liberdade%2C%2032%20-%20Liberdade%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001502-000!5e0!3m2!1spt-BR!2sbr!4v1590363787368!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Liberdade, 32"
+        },
+        {
+            "nome_local": "Defensoria Pública Rua Boa Vista",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.6143285711237!2d-46.635417285022484!3d-23.546369984690372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce585514337f9b%3A0xe79f4eeec6bd8bcd!2sR.%20Boa%20Vista%2C%20150%20-%20Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001014-001!5e0!3m2!1spt-BR!2sbr!4v1590363862959!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Boa Vista, 150"
+        },
+        {
+            "nome_local": "SPTuris Republica",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.678247554901!2d-46.64469488502258!3d-23.544072184691455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce584fb651f531%3A0xbc6c0eeefa6f2dc0!2zUHJhw6dhIGRhIFJlcMO6YmxpY2EgLSBSZXDDumJsaWNhLCBTw6NvIFBhdWxvIC0gU1A!5e0!3m2!1spt-BR!2sbr!4v1590363907569!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Praça da República, s/no"
+        },
+        {
+            "nome_local": "SPTuris Terminal Rodoviário Tietê",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3658.4529654757525!2d-46.6269594!3d-23.5162053!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce588f85b00cc9%3A0x2916c2b304e4d535!2sTerminal%20Rodovi%C3%A1rio%20Tiet%C3%AA!5e0!3m2!1spt-BR!2sbr!4v1590363937094!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Desembarque Term. Rod. Tietê"
+        },
+        {
+            "nome_local": "CRAS - Vila Medeiros",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.236710304364!2d-46.58225788502373!3d-23.48798198471944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef5f694aa6bdd%3A0x5e991246c8ef0bd9!2sAv.%20Gustavo%20Adolfo%2C%202202%20-%20Vila%20Gustavo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002209-001!5e0!3m2!1spt-BR!2sbr!4v1590363970800!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Gustavo Adolfo, 2202 - Vila Gustavo"
+        },
+        {
+            "nome_local": "CREAS - Vila Mariana",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.398842244979!2d-46.638301085021624!3d-23.590024884668633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a2bc5282c69%3A0x82d1559c042518f5!2sR.%20Me.%20Cabrini%2C%2099%20-%20Vila%20Mariana%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004020-000!5e0!3m2!1spt-BR!2sbr!4v1590364017733!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "R. Me. Cabrini, 99 - Vila Mariana, São Paulo - SP, 04020-000"
+        },
+        {
+            "nome_local": "CRAS – Ipiranga/CREAS – Ipiranga",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.5438964870714!2d-46.60497288502107!3d-23.620685184653475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5b7a80ee7f6b%3A0x89c85d3be7b7470b!2sR.%20Taquarichim%2C%20290%20-%20Vila%20Vera%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004296-100!5e0!3m2!1spt-BR!2sbr!4v1590364075283!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Taquarichim, 290"
+        },
+        {
+            "nome_local": "CRAS – Lapa",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.213725129677!2d-46.69640428502281!3d-23.52481418470106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef873dbee3327%3A0x843ad9bedc9383c8!2sR.%20Caio%20Graco%2C%20231%20-%20Vila%20Romana%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005044-000!5e0!3m2!1spt-BR!2sbr!4v1590364124047!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Caio Graco, 231 - Vila Romana"
+        },
+        {
+            "nome_local": "CRAS - Vila Mariana",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.398842244979!2d-46.638301085021624!3d-23.590024884668633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a2bc5282c69%3A0x82d1559c042518f5!2sR.%20Me.%20Cabrini%2C%2099%20-%20Vila%20Mariana%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004020-000!5e0!3m2!1spt-BR!2sbr!4v1590364151869!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Madre Cabrini, 99"
+        },
+        {
+            "nome_local": "Biblioteca Maria Firmina dos Reis",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.6746468835904!2d-46.392031585021826!3d-23.580125884673514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6f88f39c9411%3A0x541be5f4b2f80ff5!2sR.%20In%C3%A1cio%20Monteiro%2C%206900%20-%20Jardim%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008474-480!5e0!3m2!1spt-BR!2sbr!4v1590364179640!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua. Inácio Monteiro, 6900 - Jardim Sao Paulo"
+        },
+        {
+            "nome_local": "Centro Cultural Cidade Tiradentes",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.6746468835904!2d-46.392031585021826!3d-23.580125884673514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6f88f39c9411%3A0x541be5f4b2f80ff5!2sR.%20In%C3%A1cio%20Monteiro%2C%206900%20-%20Jardim%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008474-480!5e0!3m2!1spt-BR!2sbr!4v1590364207671!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "R. Inácio Monteiro, 6900 - Conj. Hab. Sitio Conceicao"
+        },
+        {
+            "nome_local": "CRAS - Cidade Tiradentes/CREAS- Cidade Tiradentes ",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.4194359358735!2d-46.41390458502165!3d-23.58928588466907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6f6367cf5749%3A0x87f54b4d557eb5dd!2sRua%20Nascer%20do%20Sol%2C%20529%20-%20Conj.%20Hab.%20Santa%20Etelvina%20II%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008485-020!5e0!3m2!1spt-BR!2sbr!4v1590364231429!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Nascer do Sol, 529 - Conj. Hab. Santa Etelvina II"
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+,
+        {
+            "nome_local": "Subprefeitura Butantã",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.444643569011!2d-46.74029368502171!3d-23.5883812846695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5688a9142f49%3A0x66aeb48105ec8716!2sR.%20Dr.%20Ulpiano%20da%20Costa%20Manso%2C%20201%20-%20Jardim%20Peri%20Peri%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005538-000!5e0!3m2!1spt-BR!2sbr!4v1590364315233!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Ulpiano da Costa Manso, no 201"
+        },
+        {
+            "nome_local": "CRAS – Cachoeirinha",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.592257241026!2d-46.66689498502387!3d-23.475167884725717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef77b9e6c47c1%3A0x6abb66a500bbe1c7!2sAv.%20Imirim%2C%204328%20-%20Imirim%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002464-700!5e0!3m2!1spt-BR!2sbr!4v1590364349775!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Imirim, 4328 "
+        },
+        {
+            "nome_local": "CRAS – Brasilândia I",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.60423500902!2d-46.691049585023784!3d-23.474736084725972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef9c09249b8f7%3A0xa9ccb56420b159c1!2sR.%20Bar%C3%A3o%20de%20Santo%20%C3%82ngelo%2C%20147%20-%20Jardim%20do%20Tiro%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002842-000!5e0!3m2!1spt-BR!2sbr!4v1590364385950!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Barão de Santo Angelo, 147"
+        },
+        {
+            "nome_local": "CRAS - Casa Verde",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.1173674950155!2d-46.65890418502342!3d-23.49228168471721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef791253a391b%3A0xdd58d9e8073ede3c!2sAv.%20Eng.%20Caetano%20%C3%81lvares%2C%203054%20-%20Parque%20Mandaqui%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002535-008!5e0!3m2!1spt-BR!2sbr!4v1590364416298!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Eng. Caetano Alvares, 3054"
+        },
+        {
+            "nome_local": "CRAS – Jabaquara",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.896225114123!2d-46.63913199999999!3d-23.643887199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ae774c110b9%3A0x233ba8be862a89!2sR.%20dos%20Jornalistas%2C%2048%20-%20Jabaquara%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004318-000!5e0!3m2!1spt-BR!2sbr!4v1590364448895!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua dos Jornalistas, 48"
+        }
+,
+        {
+            "nome_local": "CRAS – Anhanguera",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.8250249029006!2d-46.79325878502448!3d-23.43068708474797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cefd1f5501d5c7%3A0xf94223569ea8375f!2sAv.%20Piero%20Tricca%2C%2027%20-%20Jardim%20Santa%20Fe%20(Zona%20Oeste)%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005271-240!5e0!3m2!1spt-BR!2sbr!4v1590364484494!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Piero Tricca, 27 - Jardim Santa Fe"
+        },
+        {
+            "nome_local": "Subprefeitura Lapa",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.280370913187!2d-46.69794648502309!3d-23.52241628470223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef871e8516b11%3A0x4a21c41acb677629!2sR.%20Guaicurus%2C%201000%20-%20%C3%81gua%20Branca%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005033-001!5e0!3m2!1spt-BR!2sbr!4v1590364527592!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Guaicurus, 1000"
+        },
+        {
+            "nome_local": "CRAS – Aricanduva",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1959421633496!2d-46.55289618502222!3d-23.561405184682858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5dd4102d8df5%3A0xc44277f2ece1fd5f!2sR.%20S%C3%A3o%20Const%C3%A2ncio%2C%20457%20-%20Vila%20Mafra%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003414-010!5e0!3m2!1spt-BR!2sbr!4v1590364556010!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "R. São Constâncio, 457 - Vila Mafra, São Paulo - SP, 03414-010"
+        },
+        {
+            "nome_local": "CRAS - Campo Limpo",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.189007850802!2d-46.77439348502079!3d-23.633401284647174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce547607029db3%3A0x5768204ad12b3bc1!2sR.%20Batista%20Crespo%2C%20312%20-%20Vila%20Pirajussara%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005786-040!5e0!3m2!1spt-BR!2sbr!4v1590364593742!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua: Batista Crespo, 312 - Campo Limpo"
+        },
+        {
+            "nome_local": "Subprefeitura Ipiranga",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.4676517747707!2d-46.60529028502173!3d-23.587555584669797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5bee2b7e56f9%3A0x462b0596aa3e9fff!2sR.%20Lino%20Coutinho%2C%20444%20-%20Ipiranga%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004207-000!5e0!3m2!1spt-BR!2sbr!4v1590364636839!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua: Lino Coutinho, 444 – Ipiranga"
+        },
+        {
+            "nome_local": "Subprefeitura Penha",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.3842192798643!2d-46.5233366850231!3d-23.518679384704097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5e2600a7b60b%3A0x42500c837730c0df!2sRua%20Candapu%C3%AD%2C%20492%20-%20Vila%20Marieta%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003621-000!5e0!3m2!1spt-BR!2sbr!4v1590364678044!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua: Candapuí, 492 – Penha"
+        },
+        {
+            "nome_local": "CRAS – Marsilac",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.512819858259!2d-46.7085375850155!3d-23.906888284512412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef81c7648156f%3A0xfa3fa7d457d51345!2sCRAS%20MARSILAC!5e0!3m2!1spt-BR!2sbr!4v1590364747363!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Henrique Silva, 68 – Marsilac"
+        },
+        {
+            "nome_local": "CRAS – Jaragua",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.2637424385416!2d-46.7322989850242!3d-23.45094918473775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cefbea44245839%3A0x8aad04ed35abff35!2sR.%20Barra%20da%20Forquilha%2C%20300%20-%20Jardim%20Vivan%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002993-000!5e0!3m2!1spt-BR!2sbr!4v1590364784621!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Barra da Forquilha, 300 - Jd. Panamericano"
+        },
+        {
+            "nome_local": "CRAS – Jaçanã",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.7165379696235!2d-46.588239485023905!3d-23.470687184727996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef5dc8aa4cd0d%3A0x7c23e04afcbf15b6!2sAv.%20Guapira%2C%202145%20-%20Vila%20Constan%C3%A7a%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002265-002!5e0!3m2!1spt-BR!2sbr!4v1590364816506!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Guapira, 2145"
+        },
+        {
+            "nome_local": "Subprefeitura Santo Amaro",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.6849371653825!2d-46.70913808502059!3d-23.65145168463827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50550692b7cd%3A0xb8c1e42690ab2f29!2sPra%C3%A7a%20Floriano%20Peixoto%2C%2054%20-%20Santo%20Amaro%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004751-030!5e0!3m2!1spt-BR!2sbr!4v1590364860954!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Praça Floriano Peixoto, 54 - Santo Amaro"
+        },
+        {
+            "nome_local": "Subprefeitura Pinheiros",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.8563325518626!2d-46.6980183!3d-23.573602800000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5708929d32f9%3A0x1dd8aba9ba5915ae!2sAv.%20das%20Na%C3%A7%C3%B5es%20Unidas%2C%207123%20-%20Pinheiros%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005423-110!5e0!3m2!1spt-BR!2sbr!4v1590364889100!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Avenida das Nações Unidas, 7123 – Pinheiros"
+        },
+        {
+            "nome_local": "CATe Central Luz",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.777783439556!2d-46.64134728502253!3d-23.540493584693177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce58508097e3f9%3A0x8850473ad4bce91e!2sAv.%20Rio%20Branco%2C%20252%20-%20Campos%20El%C3%ADseos%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001206-000!5e0!3m2!1spt-BR!2sbr!4v1590364917279!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Rio Branco, 252 - Campos Elíseos, São Paulo - SP, 01208-012"
+        },
+        {
+            "nome_local": "CRAS – Butantã",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.418056539864!2d-46.739994585021684!3d-23.589335384668953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce568f5a6bd9fd%3A0x2595f3aef20f7d8!2sAv.%20Junta%20Mizumoto%2C%20591%20-%20Jardim%20Peri%20Peri%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005537-070!5e0!3m2!1spt-BR!2sbr!4v1590364950803!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Avenida Junta Mizumoto, 591"
+        },
+        {
+            "nome_local": "CRAS – Pinheiros",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0717569063995!2d-46.68794598502216!3d-23.565866184680655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce579e1d7c2dad%3A0x181e66fd00eeda32!2sR.%20Mourato%20Coelho%2C%20104%20-%20Pinheiros%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005417-000!5e0!3m2!1spt-BR!2sbr!4v1590364972267!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Mourato Coelho, 104/106"
+        },
+        {
+            "nome_local": "UPA Campo Limpo",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.7448289252916!2d-46.75152938502062!3d-23.649307684639293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce53df39fdff3f%3A0x2b7ac5c3d4e244b0!2sRua%20Teresa%20Mouco%20de%20Oliveira%2C%20121%20-%20Vila%20Maracana%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005846-420!5e0!3m2!1spt-BR!2sbr!4v1590365009596!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Tereza Mouco de Oliveira, 121"
+        },
+        {
+            "nome_local": "CRAS – Sé",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.097636273574!2d-46.63430038502295!3d-23.52899048469895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce58f55c6afc91%3A0x812f44eb87cdacff!2sAv.%20Tiradentes%2C%20749%20-%20Luz%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001101-010!5e0!3m2!1spt-BR!2sbr!4v1590365042357!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Av. Tiradentes, 749"
+        },
+        {
+            "nome_local": "CRAS – Santana",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.425836859158!2d-46.634391285023675!3d-23.48116658472272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef7b2add656bb%3A0x5d2100ba6832eb61!2sR.%20Volunt%C3%A1rios%20da%20P%C3%A1tria%2C%204649%20-%20Santana%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002401-400!5e0!3m2!1spt-BR!2sbr!4v1590365066940!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Voluntários da Pátria, 4649"
+        },
+        {
+            "nome_local": "CRAS - Itaim Paulista",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.025491943348!2d-46.407174185023315!3d-23.495591284715594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce639c90cff3e1%3A0xbc0945e75c3d12ec!2sEstrada%20Dom%20Jo%C3%A3o%20Nery%2C%2054%20-%20Vila%20Silva%20Teles%2C%20S%C3%A3o%20Paulo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1590365093872!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Estrada Dom João Nery, 54/58"
+        },
+        {
+            "nome_local": "CRAS - Cidade Ademar",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.830285871667!2d-46.638569285019905!3d-23.68202648462313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce4521feb95d9d%3A0x1e7635e1ad6d0522!2sAv.%20Cupec%C3%AA%2C%205699%20-%20Jardim%20Prud%C3%AAncia%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004365-001!5e0!3m2!1spt-BR!2sbr!4v1590365121154!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Avenida Cupecê, 5699"
+        },
+        {
+            "nome_local": "CREAS - Cidade Ademar",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.299532581559!2d-46.659242185020254!3d-23.665243984631438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ab15c46a737%3A0x8a7fd4b31a8348ed!2sR.%20Ranulfo%20Prata%2C%20289%20-%20Jardim%20Itacolomi%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004385-020!5e0!3m2!1spt-BR!2sbr!4v1590365147232!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Ranulfo Prata, 289"
+        },
+        {
+            "nome_local": "CRAS – Lajeado",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.902779693908!2d-46.406164785022725!3d-23.535998884695495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce645712cf00e5%3A0x7dff528b9322af8e!2sR.%20Cruz%20do%20Esp%C3%ADrito%20Santo%2C%201142%20-%20Vila%20Chabilandia%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008440-470!5e0!3m2!1spt-BR!2sbr!4v1590365169318!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Cruz do Espirito Santo, 1142"
+        },
+        {
+            "nome_local": "CMPD",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3657.633892797!2d-46.6361053!3d-23.5456667!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c51a7c0587%3A0xeab8b141330c2259!2sR.%20L%C3%ADbero%20Badar%C3%B3%2C%20425%20-%2032oand%20-%20Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001010-001!5e0!3m2!1spt-BR!2sbr!4v1590365188984!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Líbero Badaró, 425 - 32oand"
+        },
+        {
+            "nome_local": "CRAS – Perus",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.524547826302!2d-46.75730528502527!3d-23.40541138476054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cefcaef795890f%3A0xd159e029cb75a992!2sRua%20Padre%20Manuel%20Campello%2C%2040%20-%20Vila%20Inacio%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005206-020!5e0!3m2!1spt-BR!2sbr!4v1590365215180!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Padre Manuel Campello, 40"
+        },
+        {
+            "nome_local": "SMDHC – Ouvidoria",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.5611927251675!2d-46.63980638502245!3d-23.548279984689355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce585343eb9a7d%3A0xf933856cd0f1e194!2sR.%20Dr.%20Falc%C3%A3o%20Filho%2C%2099%20-%20Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001007-010!5e0!3m2!1spt-BR!2sbr!4v1590365243825!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Dr. Falcão Filho, 99"
+        },
+        {
+            "nome_local": "CRAS - Vila Prudente",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.628877387755!2d-46.58753078502176!3d-23.581768884672737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5c0e4f793cd9%3A0x795322af695b3c7e!2sPra%C3%A7a%20Padre%20Dami%C3%A3o%2C%20102%20-%20Vila%20Prudente%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003126-050!5e0!3m2!1spt-BR!2sbr!4v1590365269654!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Praça Padre Damião, 102 - Vila Prudente, São Paulo - SP, 03126-050"
+        },
+        {
+            "nome_local": "SMDHC - Centro Público Dir. Hum.",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.247536135017!2d-46.6264021850223!3d-23.55955158468379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce590dd073d7a9%3A0xa793cd70dc9add50!2sRua%20Otto%20de%20Alencar%2C%20270%20-%20Liberdade%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001517-000!5e0!3m2!1spt-BR!2sbr!4v1590365349088!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Otto de Alencar, 270"
+        },
+        {
+            "nome_local": "SMDHC - Polo Cult. Do Idoso",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2502888564327!2d-46.62664898502234!3d-23.55945268468389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce590dd3cb73b5%3A0xba0f0ac1d80cf861!2sR.%20Teixeira%20Mendes%2C%20262%20-%20Cambuci%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001517-010!5e0!3m2!1spt-BR!2sbr!4v1590365386851!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Teixeira Mendes, 262"
+        },
+        {
+            "nome_local": "SMDHC - Centro de Cid. LGBTI",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.516577731604!2d-46.65335588502234!3d-23.549883584688573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce584a083c274f%3A0x7968791ce78327a3!2sR.%20Visc.%20de%20Ouro%20Preto%2C%20118%20-%20Consola%C3%A7%C3%A3o%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001303-060!5e0!3m2!1spt-BR!2sbr!4v1590365438109!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Visconde de Ouro Preto, 118"
+        },
+        {
+            "nome_local": "SMDHC - Centro Casa Eliane de Grammont",
+            "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.27816325408!2d-46.65003778502151!3d-23.594354984666506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a211459675d%3A0xacdbc08074054fdc!2sR.%20Dr.%20Bacelar%2C%2020%20-%20Vila%20Clementino%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004026-000!5e0!3m2!1spt-BR!2sbr!4v1590365466665!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+            "nombre_rua": "Rua Dr. Bacelar, 20"
+        }
+{
+    "nome_local": "CRAS – Pedreira",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.238077803745!2d-46.64634018501956!3d-23.703190684612643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce4509cc7cbd1f%3A0x2a8cc9d5f072a019!2sEstr.%20do%20Alvarenga%2C%203657%20-%20Balne%C3%A1rio%20S%C3%A3o%20Francisco%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004474-340!5e0!3m2!1spt-BR!2sbr!4v1590365487738!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Estrada do Alvarenga, 3657"
+},
+{
+    "nome_local": "SMDHC - CCM 25 de Março",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.561890602916!2d-46.637364899999994!3d-23.548254900000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5853452f02a9%3A0xfc620570a4050591!2sCondom%C3%ADnio%20Edif%C3%ADcio%20Patriarca%20-%20R.%20L%C3%ADbero%20Badar%C3%B3%2C%20137%20-%20Centro%20-%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001003-010!5e0!3m2!1spt-BR!2sbr!4v1590365538424!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Líbero Badaró, 137 - 4oand."
+},
+{
+    "nome_local": "CRAS – Pedreira",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.238077803745!2d-46.64634018501956!3d-23.703190684612643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce4509cc7cbd1f%3A0x2a8cc9d5f072a019!2sEstr.%20do%20Alvarenga%2C%203657%20-%20Balne%C3%A1rio%20S%C3%A3o%20Francisco%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004474-340!5e0!3m2!1spt-BR!2sbr!4v1590365572320!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Estrada do Alvarenga, 3657"
+},
+{
+    "nome_local": "SMDHC - CCM 25 de Março",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.561890602916!2d-46.637364899999994!3d-23.548254900000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5853452f02a9%3A0xfc620570a4050591!2sCondom%C3%ADnio%20Edif%C3%ADcio%20Patriarca%20-%20R.%20L%C3%ADbero%20Badar%C3%B3%2C%20137%20-%20Centro%20-%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001003-010!5e0!3m2!1spt-BR!2sbr!4v1590365594700!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Líbero Badaró, 137 - 4oand."
+},
+{
+    "nome_local": "Subprefeitura Itaquera",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.0235525144803!2d-46.449403185022874!3d-23.53165528469774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce66a56644f06b%3A0xca05584c6278188!2sR.%20Augusto%20Carlos%20Bauman%2C%20851%20-%20Itaquera%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008215-263!5e0!3m2!1spt-BR!2sbr!4v1590365635446!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "R. Augusto Carlos Bauman, 851 08215-263"
+},
+{
+    "nome_local": "Subprefeitura M' Boi Mirim",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.0311252089004!2d-46.73479878502004!3d-23.674844884626662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce51bd5fc656db%3A0xad20bb5e404e1b85!2sParque%20Guarapiranga!5e0!3m2!1spt-BR!2sbr!4v1590365657560!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Avenida Guarapiranga, 1695 - Parque Alves de Lima | CEP: 04902-015"
+},
+{
+    "nome_local": "CATe Interlagos",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.3394233108716!2d-46.70352558501959!3d-23.6995700846144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce4fdfe5c7e36f%3A0xf5beb59428a3bfc!2sCATe%20Interlagos!5e0!3m2!1spt-BR!2sbr!4v1590365684038!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Avenida Interlargos, 6.122 – Interlargos"
+},
+{
+    "nome_local": "Centro de Cidadania LGBTI – Laura Vermont",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.97198385569!2d-46.44359438502342!3d-23.49751858471458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6161aecab7f7%3A0x715f5bc8fdd2d71f!2sAv.%20Nordestina%2C%20496%20-%20Vila%20Americana%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008011-000!5e0!3m2!1spt-BR!2sbr!4v1590365712180!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Av. Nordestina, 496 – Vila Americana | CEP: 08010-130. São Miguel Paulista São Miguel,"
+},
+{
+    "nome_local": "Descomplica SP Campo Limpo",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.8053021186056!2d-46.75882268502059!3d-23.64714268464035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce53e7f18b8787%3A0xa1e6c6ed0eab5673!2sR.%20Nossa%20Sra.%20do%20Bom%20Conselho%2C%2065%20-%20Chacara%20Nossa%20Sra.%20do%20Bom%20Conselho%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005763-470!5e0!3m2!1spt-BR!2sbr!4v1590365786640!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Nossa Senhora do Bom Conselho, 65 – Campo Limpo"
+},
+{
+    "nome_local": "Centro de Cidadania LGBTI – Luana Barbosa dos Reis",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.241411762077!2d-46.606785285023726!3d-23.487812584719418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef6104420a535%3A0xe288ff5c6c86c7c5!2sDiretoria%20De%20Ensino%20Regi%C3%A3o%20Norte%202!5e0!3m2!1spt-BR!2sbr!4v1590365815124!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Plínio Pasqui, 186 - Vila Dom Pedro II, São Paulo - SP, 02244-030"
+},
+{
+    "nome_local": "CEU Perus",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.516213331284!2d-46.75357298502501!3d-23.405712684760392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cefca88fb6b1d5%3A0x4a9163c9299344d8!2sR.%20Bernardo%20Jos%C3%A9%20de%20Lorena%20-%20Perus%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002675-031!5e0!3m2!1spt-BR!2sbr!4v1590365849088!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Bernardo José de Lorena, S/N - Vila Fanton, São Paulo - SP, 05203-200."
+},
+{
+    "nome_local": "Centro de Cidadania LGBTI – Edson Neris",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.7434182873717!2d-46.70411118502052!3d-23.64935818463925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5057b34b639b%3A0xb1594970872a7b84!2sRua%20S%C3%A3o%20Benedito%2C%20408%20-%20Santo%20Amaro%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004735-000!5e0!3m2!1spt-BR!2sbr!4v1590365873956!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua São Benedito, 408 - Santo Amaro, São Paulo/SP"
+},
+{
+    "nome_local": "Biblioteca Mario de Andrade",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.573520047125!2d-46.644195385022456!3d-23.547836884689666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce584d8586c6f5%3A0x6cd0bcbaad7de8a5!2zUi4gZGEgQ29uc29sYcOnw6NvLCA5NCAtIFJlcMO6YmxpY2EsIFPDo28gUGF1bG8gLSBTUCwgMDEzMDItMDAw!5e0!3m2!1spt-BR!2sbr!4v1590365895435!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua da Consolação, 94 – República, São Paulo-SP – CEP: 01302-000"
+},
+{
+    "nome_local": "Subprefeitura Perus",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.467698087416!2d-46.75518538502503!3d-23.407466484759546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cefcaf51c52ca5%3A0xf356cd87452a0d82!2sR.%20Yl%C3%ADdio%20Figueiredo%2C%20349%20-%20Vila%20Perus%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005204-020!5e0!3m2!1spt-BR!2sbr!4v1590365924100!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Ylídio Figueiredo, 349 – CEP: 05204-000"
+},
+{
+    "nome_local": "Subprefeitura Sé",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.5592341325473!2d-46.63681078502246!3d-23.548350384689375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5854d497e5fb%3A0x50cf4ccf60110831!2sR.%20%C3%81lvares%20Penteado%2C%2049%20-%20Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001012-000!5e0!3m2!1spt-BR!2sbr!4v1590365950583!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Alvares Penteado, no 49 - São Paulo"
+},
+{
+    "nome_local": "UBS Sapopemba",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.792304277519!2d-46.495559485021296!3d-23.611780584658007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce67df4e8ccdb1%3A0x1fd218978d5a0daa!2sR.%20Jo%C3%A3o%20Lopes%20de%20Lima%2C%201151%20-%20Jardim%20Sapopemba%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003976-020!5e0!3m2!1spt-BR!2sbr!4v1590365991080!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "R. João Lopes de Lima, 1151"
+},
+{
+    "nome_local": "Subprefeitura Cidade Tiradentes",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.589303711036!2d-46.418582785021904!3d-23.583189384672114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6589bcc20c25%3A0xde0cce7a7d707896!2sPrefeitura%20Regional%20-%20Cidade%20Tiradentes!5e0!3m2!1spt-BR!2sbr!4v1590366024059!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Juá Mirim S/N, Cid. Tiradentes - 08490-800"
+},
+{
+    "nome_local": "UBS City Jaraguá",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.5191562509526!2d-46.736400985024424!3d-23.44173088474243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cefb90df5e8807%3A0x617d857a49de9320!2sEstr.%20das%20Taipas%2C%201648%20-%20Parque%20Na%C3%A7%C3%B5es%20Unidas%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002996-055!5e0!3m2!1spt-BR!2sbr!4v1590366063045!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Estr. das Taipas, 1648 - Parque Nações Unidas, São Paulo - SP, 02996-055"
+},
+{
+    "nome_local": "Centro Judiciário de Solução de Conflitos e Cidadania- CEJUSC",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.4038367108874!2d-46.63725468502239!3d-23.5539353846866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59a96e454c37%3A0x2729c55135b915ef!2sAv.%20da%20Liberdade%2C%20103%20-%20Liberdade%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001503-000!5e0!3m2!1spt-BR!2sbr!4v1590366087968!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Avenida Liberdade, 103 - Liberdade, São Paulo/SP"
+},
+{
+    "nome_local": "CRM - Centro de Referência da Mulher – Brasilândia",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.9189250420286!2d-46.680477685023924!3d-23.463388784731663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef9e679b6ba9d%3A0x991a0bd4614b8da6!2sR.%20Silvio%20Bueno%20Peruche%2C%20538%20-%20Jardim%20Ondina%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002871-050!5e0!3m2!1spt-BR!2sbr!4v1590366121141!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Silvio Bueno Peruche, 538 – Parque Tiête – Vila Brasilândia."
+},
+{
+    "nome_local": "CER Vila Mariana",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.322116724385!2d-46.64837878502089!3d-23.628632584649463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5af6018e8897%3A0xb232586510ad1ebf!2sAv.%20Ceci%2C%202235%20-%20Planalto%20Paulista%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004065-004!5e0!3m2!1spt-BR!2sbr!4v1590366143598!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Avenida Ceci, 2235 - Vila Mariana, São Paulo"
+},
+{
+    "nome_local": "CRAS SÃO MATEUS",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.8374063459105!2d-46.47795618502125!3d-23.610163484658663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6880fba67037%3A0xd5be216e532c610!2sR.%20El%C3%ADsio%20Ferreira%2C%20519%20-%20Cidade%20S%C3%A3o%20Mateus%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003964-010!5e0!3m2!1spt-BR!2sbr!4v1590366180339!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Elisio Ferreira, 519 – São Mateus | CEP: 03964-010"
+},
+{
+    "nome_local": "SUBPREFEITURA CASA VERDE CACHOEIRINHA",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.571048228752!2d-46.668705485023025!3d-23.511955084707548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef7f9e314faf5%3A0x70d04996639da35f!2sAv.%20Ordem%20e%20Progresso%2C%201001%20-%20Jardim%20das%20Laranjeiras%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001142-300!5e0!3m2!1spt-BR!2sbr!4v1590366208560!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Avenida Ordem e Progresso, 1001"
+},
+{
+    "nome_local": "SUBPREFEITURA VILA MARIA / VILA GUILHERME",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.862339452284!2d-46.5936226850233!3d-23.501467384712626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5f530e71658d%3A0xa4aea29759e21002!2sR.%20Gen.%20Mendes%2C%20111%20-%20Vila%20Maria%20Alta%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002127-020!5e0!3m2!1spt-BR!2sbr!4v1590366264675!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua General Mendes, 111 - São Mateus"
+},
+{
+    "nome_local": "CER II GUAIANASES",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.293363769623!2d-46.41511628502223!3d-23.55790503468465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce65ba61ce2ecf%3A0x853916cbd03e4df0!2sR.%20Macabu%2C%2035%20-%20Jardim%20Sao%20Carlos%20(Zona%20Leste)%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008411-470!5e0!3m2!1spt-BR!2sbr!4v1590366303552!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Macabu, 35 - Jd São Carlos"
+},
+{
+    "nome_local": "SUBPREFEITURA GUAIANASES",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.6956380194088!2d-46.4177046850227!3d-23.54344698469174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6449508967a1%3A0xda8cdf4be7214d4c!2sR.%20Hip%C3%B3lito%20de%20Camargo%2C%20479%20-%20Vila%20Lourdes%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008410-030!5e0!3m2!1spt-BR!2sbr!4v1590366333851!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Hipolyto de Camargo, 479 - CEP: 08410030"
+},
+{
+    "nome_local": "SUBPREFEITURA ITAIM PAULISTA",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.053942023144!2d-46.41929888502346!3d-23.494566484716128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6395b27e549f%3A0x62278920d575b900!2sAvenida%20Marechal%20Tito%2C%203012%20-%20S%C3%A3o%20Miguel%20Paulista%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008160-495!5e0!3m2!1spt-BR!2sbr!4v1590366360544!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Avenida Marechal Tito, 3012"
+},
+{
+    "nome_local": "CER SÃO MIGUEL",
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.9904329946608!2d-46.44305378502353!3d-23.49685408471498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6161bb866ab5%3A0x88a15b49d0f2d2c7!2sR.%20Prof.%20Ant%C3%B4nio%20Gama%20de%20Cerqueira%2C%20347%20-%20Vila%20Americana%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2008010-130!5e0!3m2!1spt-BR!2sbr!4v1590366381206!5m2!1spt-BR!2sbr' width='600' height='450' frameborder='0' style='border:0;' allowfullscreen=' aria-hidden='false' tabindex='0'></iframe>",
+    "nombre_rua": "Rua Professora Antonio Gama de Cerqueira, 347"
+}

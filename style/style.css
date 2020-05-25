@@ -215,7 +215,7 @@
     .modal_website .scroll .cabecalho {
       width: 100%;
       background: linear-gradient(45deg, #0acc9e, #05a37e);
-      padding: 2% 16%; }
+      padding: 2% 12%; }
       .modal_website .scroll .cabecalho span {
         width: 100%;
         display: flex;
@@ -233,18 +233,131 @@
       .modal_website .scroll .cabecalho h1 {
         font-weight: bold;
         color: #fff; }
-    .modal_website .scroll .text {
+    .modal_website .scroll .article {
       width: 100%;
-      padding: 2.5% 16%;
+      padding: 2.5% 12%;
       display: flex;
-      justify-content: center;
-      align-items: center;
+      justify-content: space-between;
+      align-items: flex-start;
+      position: relative; }
+      .modal_website .scroll .article .text {
+        width: 65%;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column; }
+        .modal_website .scroll .article .text h1:first-child {
+          margin-top: 0px; }
+        .modal_website .scroll .article .text h1 {
+          width: 100%;
+          margin-bottom: 20px;
+          border-left: solid 3px #05a37e;
+          padding-left: 20px;
+          margin-top: 80px;
+          font-weight: bold;
+          color: #333; }
+        .modal_website .scroll .article .text h2 {
+          color: #444;
+          margin-bottom: 10px;
+          width: 100%;
+          padding-left: 10px;
+          border-left: solid 4px #999;
+          margin-bottom: 20px;
+          margin-top: 20px; }
+        .modal_website .scroll .article .text h3 {
+          font-weight: bold;
+          color: #333;
+          margin-bottom: 15px; }
+        .modal_website .scroll .article .text img {
+          margin-bottom: 25px; }
+        .modal_website .scroll .article .text p {
+          text-align: justify;
+          margin-bottom: 15px; }
+          .modal_website .scroll .article .text p strong {
+            font-weight: bold;
+            color: #444; }
+        .modal_website .scroll .article .text small {
+          font-weight: bold;
+          margin-bottom: 20px; }
+        .modal_website .scroll .article .text table {
+          width: 50%;
+          border-collapse: collapse;
+          margin-bottom: 10px; }
+          .modal_website .scroll .article .text table tr th {
+            background-color: #999; }
+          .modal_website .scroll .article .text table tr td {
+            background-color: #ccc;
+            border-bottom: solid 1px #fff; }
+          .modal_website .scroll .article .text table tr td, .modal_website .scroll .article .text table tr th {
+            padding: 6px;
+            text-align: center;
+            border: solid 1px #fff; }
+        .modal_website .scroll .article .text .iframe {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column; }
+      .modal_website .scroll .article .aside {
+        width: 33%;
+        padding: 20px;
+        background-color: #ebebeb;
+        border-radius: 5px; }
+        .modal_website .scroll .article .aside h1 {
+          width: 100%;
+          border-left: solid 3px #09b88f;
+          padding-left: 10px;
+          color: #333; }
+        .modal_website .scroll .article .aside ul {
+          width: 100%;
+          margin-top: 25px;
+          border-top: solid 1px #ccc; }
+          .modal_website .scroll .article .aside ul li {
+            width: 100%;
+            margin-top: 10px; }
+            .modal_website .scroll .article .aside ul li a {
+              width: 100%;
+              display: block;
+              border-bottom: solid 1px #ccc;
+              color: #444;
+              border-bottom: solid 1px #ccc;
+              padding-bottom: 5px; }
+      .modal_website .scroll .article .outlink {
+        width: 60px;
+        height: 60px;
+        background-color: #09b88f;
+        color: #fff;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        margin-left: 1100px;
+        margin-top: 300px; }
+        .modal_website .scroll .article .outlink:hover {
+          background-color: #067057; }
+    .modal_website .scroll .local {
+      width: 100%;
+      padding: 2.5% 12%;
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
       flex-direction: column; }
-      .modal_website .scroll .text img {
-        margin-bottom: 25px; }
-      .modal_website .scroll .text p {
-        text-align: justify;
-        margin-bottom: 15px; }
+      .modal_website .scroll .local .line {
+        width: 100%;
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        border-bottom: solid 1px #ccc; }
+        .modal_website .scroll .local .line .infos {
+          width: 36%; }
+          .modal_website .scroll .local .line .infos p {
+            margin-bottom: 10px; }
+        .modal_website .scroll .local .line iframe {
+          width: 600px;
+          height: 180px; }
     .modal_website .scroll article {
       margin-top: 60px;
       width: 100%;
