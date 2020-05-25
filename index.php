@@ -196,27 +196,7 @@
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/vsnMPRp5GgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <small>Video explicativo em libras sobre exame de mama</small>
                             </div>
-                        <hr>
-
-                        <h1 style="margin-top: 40px;" id="mc">Métodos contraceptivos</h1>
-                        <p>Atualmente, existem diversos métodos contraceptivos disponíveis para evitar uma gravidez indesejada e até mesmo infecções sexualmente transmissíveis (IST).</p>
-                        <p>O Sistema Único de Saúde (SUS) acaba tendo papel fundamental na distribuição de tais métodos, como a Pílula Combinada, a Anticoncepção de Emergência, a mini-pílula, a anticoncepcional injetável mensal e trimestral, e o diafragma, assim como preservativo feminino e masculino.</p>
-                        <img src="img/5.jpg" alt="">
-                        <p>Os métodos contraceptivos oferecidos pelo SUS podem ser disponibilizados para adolescentes conforme as especificidades de suas condições individuais, além da necessidade de organização das unidades de saúde para assegurar o acesso da população a esses métodos, e assim cada vez mais minimizar os casos de enfermidades sexuais.</p>
-                        <p style="width: 100%;">- Métodos de Barreira</p>
-                        <p>A camisinha masculina ou feminina deve ser usada em todas as relações sexuais, independentemente do uso de outro método anticoncepcional, pois a camisinha é o único método que oferece dupla proteção, ou seja, além de prevenir contra uma gravidez indesejável, também previne contra as doenças transmissíveis, destaque para a AIDS </p>
-                        <p>Também é ofertado o DIU (Dispositivo Intrauterino) em todas as maternidades brasileiras, o que inclui as adolescentes dentro desse público a ser beneficiado. O DIU consiste em uma aparelho pequeno e flexível que é inserido dentro do útero, apresenta uma longa duração (por volta de 10 anos) além de ser seguro e que para as adolescentes pode ser uma opção mais eficaz na prevenção e postergação da segunda gravidez.</p>
-                        <p style="width: 100%;">- Métodos de hormonais</p>
-                        <p>Os métodos hormonais servem para controlar ou interromper a ovulação, evitando a gravidez, mas não previnem contra doenças sexualmente transmissíveis (DST).</p>
-                        <p> A Pílula contraceptiva oral combinada é um método contraceptivo composto por diferentes tipos de hormônios, que servem para inibir a ovulação e evitar a gravidez.  O uso de pílulas anticoncepcionais não é recomendado para mulheres fumantes, ou com pressão arterial elevada, histórico de câncer de mama, fígado, ou câncer endometrial. O melhor tipo de pílula para cada paciente deve ser avaliado e prescrito por um ginecologista.</p>
-                        <p>O Contraceptivo hormonal injetável consiste na injeção de hormônios, que é administrada uma vez por mês ou a cada três meses, dependendo do tipo de contraceptivo. Muito eficaz na prevenção da gravidez.</p>
-                        <p>O SUS ainda conta com a oferta para os adolescente do teste rápido para gravidez e aconselhamento sobre sífilis e HIV/aids, doenças de alta incidência no mundo, reforçar os cuidados com sua saúde e facilitando o entendimento e acesso aos preservativos e outros métodos. </p>
-                        <div class="iframe">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/jdXqvWmIxCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <small>Video explicativo em libras sobre os métodos</small>
-                        </div>
-                            
-                        <h2 style="margin-top: 40px;">Busca de ajuda em caso de Violência </h2>
+                            <h2 style="margin-top: 40px;">Busca de ajuda em caso de Violência </h2>
                         <p>A violência contra as mulheres afeta cidadãs de todas as classes sociais, raças, etnias, faixas etárias e orientações sexuais, e se constitui como uma das principais formas de violação dos direitos humanos, pois atinge as mulheres no seu direito à vida, à saúde e à integridade física.</p>
                         <p>As agredidas vivenciam situações de medo, pânico, baixa autoestima, ansiedade, angústia, humilhação, vergonha e culpa, perda da autonomia e, muitas vezes, fragilidade emocional, estopins que abrem margem para quadros clínicos como depressão, síndrome do pânico, ansiedade, distúrbios psicossomáticos, entre outros.</p>
                         <img src="img/mulher rosa.jpeg" alt="">
@@ -524,17 +504,35 @@
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/QsnFDyrZKFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         <small>Video explicativo sobre a importância do combate</small>
                         </div>
+
+                        <h1 style="margin-top: 40px;" id="mc">Métodos contraceptivos</h1>
+                        <p>Atualmente, existem diversos métodos contraceptivos disponíveis para evitar uma gravidez indesejada e até mesmo infecções sexualmente transmissíveis (IST).</p>
+                        <p>O Sistema Único de Saúde (SUS) acaba tendo papel fundamental na distribuição de tais métodos, como a Pílula Combinada, a Anticoncepção de Emergência, a mini-pílula, a anticoncepcional injetável mensal e trimestral, e o diafragma, assim como preservativo feminino e masculino.</p>
+                        <img src="img/5.jpg" alt="">
+                        <p>Os métodos contraceptivos oferecidos pelo SUS podem ser disponibilizados para adolescentes conforme as especificidades de suas condições individuais, além da necessidade de organização das unidades de saúde para assegurar o acesso da população a esses métodos, e assim cada vez mais minimizar os casos de enfermidades sexuais.</p>
+                        <p style="width: 100%;">- Métodos de Barreira</p>
+                        <p>A camisinha masculina ou feminina deve ser usada em todas as relações sexuais, independentemente do uso de outro método anticoncepcional, pois a camisinha é o único método que oferece dupla proteção, ou seja, além de prevenir contra uma gravidez indesejável, também previne contra as doenças transmissíveis, destaque para a AIDS </p>
+                        <p>Também é ofertado o DIU (Dispositivo Intrauterino) em todas as maternidades brasileiras, o que inclui as adolescentes dentro desse público a ser beneficiado. O DIU consiste em uma aparelho pequeno e flexível que é inserido dentro do útero, apresenta uma longa duração (por volta de 10 anos) além de ser seguro e que para as adolescentes pode ser uma opção mais eficaz na prevenção e postergação da segunda gravidez.</p>
+                        <p style="width: 100%;">- Métodos de hormonais</p>
+                        <p>Os métodos hormonais servem para controlar ou interromper a ovulação, evitando a gravidez, mas não previnem contra doenças sexualmente transmissíveis (DST).</p>
+                        <p> A Pílula contraceptiva oral combinada é um método contraceptivo composto por diferentes tipos de hormônios, que servem para inibir a ovulação e evitar a gravidez.  O uso de pílulas anticoncepcionais não é recomendado para mulheres fumantes, ou com pressão arterial elevada, histórico de câncer de mama, fígado, ou câncer endometrial. O melhor tipo de pílula para cada paciente deve ser avaliado e prescrito por um ginecologista.</p>
+                        <p>O Contraceptivo hormonal injetável consiste na injeção de hormônios, que é administrada uma vez por mês ou a cada três meses, dependendo do tipo de contraceptivo. Muito eficaz na prevenção da gravidez.</p>
+                        <p>O SUS ainda conta com a oferta para os adolescente do teste rápido para gravidez e aconselhamento sobre sífilis e HIV/aids, doenças de alta incidência no mundo, reforçar os cuidados com sua saúde e facilitando o entendimento e acesso aos preservativos e outros métodos. </p>
+                        <div class="iframe">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/jdXqvWmIxCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <small>Video explicativo em libras sobre os métodos</small>
+                        </div>
                     </div>
                     <div class="aside">
                         <h1>Conteúdo</h1>
                         <ul>
                             <li><a href="#audio">O que é deficiencia auditiva</a></li>
                             <li><a href="#mulher">Saúde da Mulher</a></li>
-                            <li><a href="#mc">Métodos contraceptivo</a></li>
                             <li><a href="#homem">Saúde do Homem</a></li>
                             <li><a href="#crinca">Saúde da Criança</a></li>
                             <li><a href="#idoso">Saúde do Idoso</a></li>
                             <li><a href="#hiv">Combate HIV/AIDS</a></li>
+                            <li><a href="#mc">Métodos contraceptivos</a></li>
                         </ul>
                     </div>
                     <a href="#init" class="outlink">
