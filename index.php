@@ -50,17 +50,17 @@
                     <a style="cursor: pointer;" id="start_local"> 
                         <span><i class="fas fa-map-marked-alt"></i></span>
                         <h2>LOCAIS DE ATENDIMENTO</h2>
-                        <p>Com os videos tutoriais você pode obter toda a ajuda que você precisa para aprender e enteder como funciona os aplicativos de celular</p>
+                        <p>A Dimensão Surda traz os locais públicos  de atendimento para os surdos, confira alguns aqui.</p>
                     </a>
                     <a style="cursor: pointer;" id="start_campanha">
                         <span><i class="fas fa-people-carry"></i></span>
                         <h2>CAMPANHAS</h2>
-                        <p>As duvidas frequentes estão presentes para ajudar você, por se tratar duvidas comuns talvez possa ser a sua caso tenha alguma.</p>
+                        <p>Para promover saúde e estimular mudanças de hábitos, a Dimensão Surda trás campanhas de conscientização sobre doenças, destacando a importância da prevenção e diagnóstico precoce.</p>
                     </a>
                     <a style="cursor: pointer;" id="start">
                         <span><i class="fas fa-gavel"></i></span>
                         <h2>OS SEUS DIREITOS</h2>
-                        <p>Com o material passo a passo você pode acompanhar todo o conteudo do vide em uma mini apostila PDF.</p>
+                        <p>É importante frisar que esses direitos se estendem também às pessoas surdas, portanto, a Dimensão Surda traz sobre seus direitos.</p>
                     </a>
                 </div>
             </article>
