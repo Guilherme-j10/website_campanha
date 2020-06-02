@@ -131,7 +131,7 @@
     .website .help_banner h1 {
       color: #333;
       font-weight: 400;
-      margin-bottom: 5px;
+      margin-bottom: 15px;
       font-size: 2.4em; }
     .website .help_banner p {
       color: #666;
@@ -168,11 +168,11 @@
     padding: 0px 8%; }
     .website article .card_link {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-gap: 40px; }
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-gap: 20px; }
       .website article .card_link a {
         background-color: #ccc;
-        min-height: 20vh;
+        min-height: 15vh;
         border-radius: 5px;
         padding: 20px;
         color: #fff;
@@ -198,7 +198,7 @@
           margin-top: 10px;
           color: #222; }
         .website article .card_link a:hover {
-          transform: scale(1.1);
+          transform: scale(1.05);
           box-shadow: 10px 10px 40px 1px #999; }
 
 .modal_website {

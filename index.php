@@ -36,8 +36,8 @@
                 <p>#FIQUEEMCASA <i class="fas fa-home"></i></p>
             </div>
             <section class="help_banner">
-                <h1>SAIBA O PORQUE EXISTIMOS</h1>
-                <p>Seja bem-vindo a essa dimensão que é dedicada exclusivamente a você da comunidade surda. Nosso objetivo é incluir vocês dentro do nosso programa de informações de saúde onde encontrará tudo o que preicsar para manter o equilíbrio do seu corpo. fique a vontade e navegue em nosso site.</p>
+                <h1>QUEM SOMOS NÓS ?</h1>
+                <p>Seja bem-vindo a essa dimensão que é dedicada exclusivamente a você da comunidade surda. Nosso objetivo é incluir vocês dentro do nosso programa de informações de saúde onde encontrará tudo o que preicsar para manter o equilíbrio do seu corpo. <strong style="font-weight: bold;">fique a vontade e navegue em nosso site.</strong></p>
                 <!-- <form method="post">
                     <div class="search_box">
                         <input type="text" name="ask" placeholder="Search">
@@ -50,7 +50,7 @@
                     <a style="cursor: pointer;" id="start_local"> 
                         <span><i class="fas fa-map-marked-alt"></i></span>
                         <h2>LOCAIS DE ATENDIMENTO</h2>
-                        <p>A Dimensão Surda traz os locais públicos  de atendimento para os surdos, confira alguns aqui.</p>
+                        <p>A Dimensão Surda trás os locais públicos  de atendimento para os surdos, confira alguns aqui.</p>
                     </a>
                     <a style="cursor: pointer;" id="start_campanha">
                         <span><i class="fas fa-people-carry"></i></span>
@@ -61,6 +61,11 @@
                         <span><i class="fas fa-gavel"></i></span>
                         <h2>OS SEUS DIREITOS</h2>
                         <p>É importante frisar que esses direitos se estendem também às pessoas surdas, portanto, a Dimensão Surda traz sobre seus direitos.</p>
+                    </a>
+                    <a style="cursor: pointer;" id="start_virus">
+                        <span><i class="fas fa-virus"></i></span>
+                        <h2>COVID-19</h2>
+                        <p>Informe-se a respeito dos sintomas, prevensão, diagnóstico e entre outras informações sobre a covid-19</p>
                     </a>
                 </div>
             </article>
@@ -375,6 +380,95 @@
                         <p>- Apatia;</p>
                         <p>- Depressão.</p>
 
+                        <h2>Alzheimer </h2>
+                        <img src="img/doso.png" alt="">
+                        <p>A Doença de Alzheimer (DA) é um transtorno neurodegenerativo progressivo e fatal que se manifesta pela deterioração cognitiva e da memória, comprometimento progressivo das atividades de vida diária e uma variedade de sintomas neuropsiquiátricos e de alterações comportamentais.  </p>
+                        <p>A doença inicialmente decorre de um processo proteico do sistema nervoso central que começa a falhar, evidenciando por conseguinte fragmentos de proteínas mal cortadas que quando presentes no cérebro, levam a perda progressiva de neurônios do hipocampo, que controla a memória, e o córtex cerebral, essencial para a linguagem, o raciocínio, memória, reconhecimento de estímulos sensoriais e pensamento abstrato.</p>
+                        <p>No Brasil, centros de referência do Sistema Único de Saúde (SUS) oferecem tratamento multidisciplinar integral e gratuito para pacientes com Alzheimer, além de medicamentos que ajudam a retardar a evolução dos sintomas. </p>
+                        <h3>Quais os estágios(fases) da doença de Alzheimer?</h3>
+                        <p>Estágio 1 (forma inicial): alterações na memória, na personalidade e nas habilidades visuais e espaciais.</p>
+                        <p>Estágio 2 (forma moderada): dificuldade para falar, realizar tarefas simples e coordenar movimentos. </p>
+                        <p>Estágio 3 (forma grave): resistência à execução de tarefas diárias. Incontinência urinária e fecal. Dificuldade para comer. Deficiência motora progressiva.</p>
+                        <p>Estágio 4 (terminal): restrição ao leito. Mutismo. Dor à deglutição. Infecções intercorrentes.</p>
+                        <h3>Quais são os sintomas do Alzheimer?</h3>
+                        <p>O primeiro sintoma, e o mais característico, do Mal de Alzheimer é a perda de memória recente. Com a progressão da doença, vão aparecendo sintomas mais graves como, a perda de memória remota (ou seja, dos fatos mais antigos), bem como irritabilidade, falhas na linguagem, prejuízo na capacidade de se orientar no espaço e no tempo.</p>
+                        <h3>Alguns fatores de risco para o Alzheimer são:</h3>
+                        <p>- A idade e a história familiar: a demência é mais provável se a pessoa tem algum familiar que já sofreu do problema;</p>
+                        <p>- Baixo nível de escolaridade: pessoas com maior nível de escolaridade geralmente executam atividades intelectuais mais complexas, que oferecem uma maior quantidade de estímulos cerebrais.</p>
+                        <h3>Como prevenir a Doença de Alzheimer?</h3>
+                        <p>A Doença de Alzheimer ainda não possui uma forma de prevenção específica, no entanto os médicos acreditam que manter a cabeça ativa e uma boa vida social, regada a bons hábitos e estilos, pode retardar ou até mesmo inibir a manifestação da doença. </p>
+                        <p>Com isso, as principais formas de prevenir, não apenas o Alzheimer, mas outras doenças crônicas como diabetes, câncer e hipertensão, por exemplo, são: Estudar, ler, pensar, manter a mente sempre ativa, fazer exercícios de aritmética, jogos inteligentes, atividades em grupo, ter alimentação saudável e regrada.</p>
+                        <h3>Como é feito o diagnóstico da Doença de Alzheimer?</h3>
+                        <p>O diagnóstico da Doença de Alzheimer é por exclusão. O rastreamento inicial deve incluir avaliação de depressão e exames de laboratório com ênfase especial na função da tireoide e nos níveis de vitamina B12 no sangue. </p>
+                        <h3>Como saber se uma pessoa está com Alzheimer?</h3>
+                        <p>O diagnóstico do Alzheimer no paciente que apresenta problemas de memória é baseado na identificação das modificações cognitivas específicas. Exames físicos e neurológicos cuidadosos acompanhados de avaliação do estado mental para identificar os déficits de memória, de linguagem, além de visoespaciais, que é a percepção de espaço.</p>
+                        <h3>Qual o tratamento para o Alzheimer?</h3>
+                        <p>O tratamento do alzheimer é medicamentoso e os pacientes têm à disposição a oferta de medicamentos capazes de minimizar os distúrbios da doença, que devem ser prescritos pela equipe médica, tendo como meta central estabilizar o comprometimento cognitivo, comportamental e da realização das atividades diárias, com um mínimo de efeitos adversos.</p>
+                        <div class="iframe">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/yP2uTKJqubU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <small>Video explicativo em libras sobre Alzheimer</small>
+                        </div>
+
+                        <h2>Osteoporose</h2>
+                        <img src="img/oste.png" alt="">
+                        <p>A osteoporose também é uma doença da terceira idade bastante frequente. Embora seja mais comum em mulheres, nos homens a porcentagem também é alta. </p>
+                        <p>Quando o idoso tem osteoporose, seus ossos perdem densidade, massa, o que resulta na sua fragilidade e predisposição a fraturas.</p>
+                        <p>Além de todo o transtorno de ficar imobilizado devido à fratura, esse período em repouso pode trazer outras consequências mais graves à saúde do idoso. Ocorre uma redução na massa muscular e a pneumonia também pode surgir se a pessoa ficar acamada.</p>
+                        <p>Segundo a Sociedade Brasileira de Endocrinologia e Metabologia, a osteoporose causa mais internações de mulheres acima de 45 anos de idade que qualquer outra doença, evidenciando que a osteoporose causa mais internações que o diabetes, infarto do miocárdio e câncer de mama. Dessa forma, deve-se prevenir tal doença com a finalidade não apensa de manter a integridade dos ossos, mas também de evitar inúmeras outras complicações.</p>
+                        <img src="img/velho.png" alt="">
+                        <h3>Medidas preventivas:</h3>
+                        <p>- Adote uma dieta rica em alimentos com cálcio (leite e derivados, como iogurtes e queijos).</p>
+                        <p>- Consuma verduras de folhas escuras, como brócolis, espinafre e couve;</p>
+                        <p>- Evite carne vermelha, refrigerante, café e sal;</p>
+                        <p>- Exponha-se ao sol de forma moderada, isso acaba estimulando a formação de vitamina D, importante na absorção do cálcio para o organismo. </p>
+                        <p>- Não fume e evite o consumo excessivo de álcool;</p>
+                        <p>- Independente da idade inicie um programa de exercícios </p>
+                        <p>- Obstáculos como móveis, tapetes soltos e pouca iluminação, podem facilitar quedas e, consequentemente, provocar fraturas.</p>
+                        <h3>Diagnóstico</h3>
+                        <p>O diagnóstico para a Osteoporose se dá por exames de rotina como: Exames de rotina: testes bioquímicos básicos (cálcio, fósforo, albumina, proteínas totais, função renal, hepatograma e eletrólitos), hemograma completo e dosagem de 25-hidroxivitamina D, que vão evidenciar ou a propensão ou de fato constatar um quadro da doença.</p>
+                        
+                        <h2>Diabetes</h2>
+                        <img src="img/diabe.png" alt="">
+                        <p>Diabetes é uma doença causada pela produção insuficiente ou má absorção de insulina, hormônio que regula a glicose no sangue e garante energia para o organismo.</p>
+                        <p>A insulina é um hormônio que tem a função de quebrar as moléculas de glicose(açúcar) transformando-a em energia para manutenção das células do nosso organismo. O diabetes pode causar o aumento da glicemia e as altas taxas podem levar a complicações no coração, nas artérias, nos olhos, nos rins e nos nervos. Em casos mais graves, o diabetes pode levar à morte.</p>
+                        <p>De acordo com a Sociedade Brasileira de Diabetes, a doença atinge em larga escala a população idosa. Quase 20% dos brasileiros entre 55 e 64 anos recebem esse diagnóstico. Acima dos 65 anos, o índice ultrapassa os 27% (1 em cada 4 idosos).</p>
+                        <h3>Medidas Preventivas:</h3>
+                        <p>A melhor forma de prevenir é praticando atividades físicas regularmente, mantendo uma alimentação saudável e evitando consumo de álcool, tabaco e outras drogas.</p>
+                        <p>Comportamentos saudáveis evitam não apenas o diabetes, mas outras doenças crônicas, como o câncer.</p>
+                        <h3>Quais os tipos mais comuns de diabetes?</h3>
+                        <p>O diabetes mellitus pode se apresentar de diversas formas e possui diversos tipos diferentes. Independente do tipo de diabetes, com aparecimento de qualquer sintoma é fundamental que o paciente procure com urgência o atendimento médico especializado para dar início ao tratamento.</p>
+                        <h3>Classificação do Diabetes Mellitus </h3>
+                        <p>Diabetes tipo 1: Aparece geralmente na infância ou adolescência, mas pode ser diagnosticado em adultos também. Pessoas com parentes próximos que têm ou tiveram a doença devem fazer exames regularmente para acompanhar a glicose no sangue.</p>
+                        <p>O tratamento exige o uso diário de insulina e/ou outros medicamentos para controlar a glicose no sangue.</p>
+                        <p>Diabetes tipo 2: Ocorre quando o corpo não aproveita adequadamente a insulina produzida, tal tipo está diretamente relacionado ao sobrepeso, sedentarismo, triglicerídeos elevados, hipertensão e hábitos alimentares inadequados.</p>
+                        <p>Diabetes Latente Autoimune do Adulto (LADA):  Atinge basicamente os adultos e representa um agravamento do diabetes tipo 2. </p>
+                        <p>Pré-diabetes: É quando os níveis de glicose no sangue estão mais altos do que o normal, mas ainda não estão elevados o suficiente para caracterizar um Diabetes Tipo 1 ou Tipo 2, apresenta-se apenas como um sinal de alerta.</p>
+                        <p>Diabetes gestacional: Ocorre temporariamente durante a gravidez. As taxas de açúcar no sangue ficam acima do normal, mas ainda abaixo do valor para ser classificada como diabetes tipo 2. Toda gestante deve fazer o exame de diabetes, regularmente, durante o pré-natal. Mulheres com a doença têm maior risco de complicações durante a gravidez e o parto. </p>
+                        <h3>Principais Sintomas </h3>
+                        <p>Diabetes tipo 1: fome frequente, sede constante, vontade de urinar diversas vezes ao dia, perda de peso, fadiga e mudanças de humor;</p>
+                        <p>Diabetes tipo 2: fome frequente, sede constante, formigamento nos pés e mãos, infecções frequentes na bexiga, rins, pele e infecções de pele, feridas que demoram para cicatrizar e visão embaçada.</p>
+                        <h2>Alimentação saudável para o idoso</h2>
+                        <img src="img/mela.png" alt="">
+                        <p>Com o passar dos anos, o corpo começa a apresentar naturalmente algumas mudanças, que muitas vezes as pessoas demoram a perceber, mas que podem interferir na sua alimentação. Alterações naturais nos mecanismos de defesa do organismo ou dificuldades no processo de mastigação e deglutição podem tornar a pessoa idosa mais suscetível a complicações decorrentes do consumo de alimentos, o que reforça a necessidade de cuidados diários para preparar refeições seguras. A alimentação da pessoa idosa segue, de maneira geral, os mesmos princípios de dieta saudável recomendada a todas as pessoas adultas. No entanto, é importante redobrar os cuidados quanto à escolha, preparo e combinação de alimentos, de maneira a garantir sua adequação e boa aceitação.</p>
+                        <h3>DEZ PASSOS PARA A ALIMENTAÇÃO SAUDÁVEL DA PESSOA IDOSA</h3>
+                        <p>1º passo. Faça três refeições ao dia (café da manhã, almoço e jantar) e, caso necessite de mais, faça outras refeições nos intervalos. Lembrando sempre de comer devagar, em locais limpos e evitando ambientes ruidosos ou estressantes.</p>
+                        <p>2º passo. Dê preferência aos grãos integrais e aos alimentos na sua forma mais natural. Inclua nas principais refeições alimentos como arroz, milho, batata, mandioca/macaxeira/aipim. Esses alimentos são as mais importantes fontes de energia e, por isso, devem ser os principais componentes das principais refeições, devendo-se dar preferência às suas formas integrais. </p>
+                        <p>3º passo. Inclua frutas, legumes e verduras em todas as refeições ao longo do dia. São considerados alimentos ricos em vitaminas, minerais e fibras. Por tal razão, eles devem estar presentes diariamente na alimentação. O consumo desses alimentos contribui para diminuir o risco de várias doenças e ajuda a evitar a constipação (prisão de ventre). </p>
+                        <p>4º passo. Coma feijão com arroz, de preferência no almoço ou no jantar.</p>
+                        <p>5º passo. Lembre-se de incluir carnes, aves, peixes, ovos, leite e derivados em pelo menos uma refeição durante o dia. Retirar a gordura aparente das carnes e a pele das aves antes da preparação.</p>
+                        <p>Os leites e derivados são ricos em cálcio, que ajuda no fortalecimento dos ossos, prevenção contra a osteoporose. Já as carnes, as aves, os peixes e os ovos são ricos em proteínas e minerais. Quanto mais variada e colorida for a alimentação, mais equilibrada e saborosa ela será.</p>
+                        <p>6º passo. Use pouca quantidade de óleos, gorduras, açúcar e sal no preparo dos alimentos, buscando, sempre que possível, substitui-los por temperos naturais (como cheiro verde, alho, cebola, manjericão, orégano, coentro, alecrim, entre outros).</p>
+                        <p>7º passo. Beba água mesmo sem sentir sede, de preferência nos intervalos das refeições.</p>
+                        <p>8º passo. Evite bebidas açucaradas (refrigerantes, sucos e chás industrializados), bolos e biscoitos recheados, doces e outras guloseimas como regra da alimentação.</p>
+                        <p>Produtos ultraprocessados (como biscoitos recheados, guloseimas, ‘salgadinhos’, refrigerantes, sucos industrializados, sopa e macarrão ‘instantâneos’, ‘tempero pronto’, embutidos, produtos prontos para aquecer) devem ser evitados ou consumidos apenas ocasionalmente. Embora convenientes e de sabor pronunciado, esses e outros produtos ultraprocessados tendem a ser nutricionalmente desequilibrados e, em sua maioria, contêm quantidades elevadas de açúcar, gordura e sal.</p>
+                        <p>9º passo. Fique atento(a) às informações nutricionais dos rótulos dos produtos processados e ultraprocessados para favorecer a escolha de produtos alimentícios mais saudáveis.</p>
+                        <p>10º passo. Sempre que possível, coma acompanhado(a) de alguém. A companhia de familiares, amigos ou vizinhos na hora das refeições colabora para o comer com regularidade e atenção, proporciona mais prazer com a alimentação e favorece o apetite. </p>
+                        <div class="iframe">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/pR5c53dRPBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <small>Video explicativo em libras sobre diabetes</small>
+                        </div>
+
+
                         <h1 id="crinca">SAÚDE DA CRIANÇA</h1>
                         <h2>EXAMES DE TRIAGEM NEONATAL</h2>
                         <h3>- Teste do olhinho</h3>
@@ -522,6 +616,50 @@
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/jdXqvWmIxCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <small>Video explicativo em libras sobre os métodos</small>
                         </div>
+
+                        <h2 style="margin-top: 40px;">infecções Sexualmente Transmissíveis e a Importância do Preservativo </h2>
+                        <img src="img/idososs.png" alt="">
+                        <p>Sexualmente Transmissíveis e a Importância do Preservativo </p>
+                        <p>transportados por sua vez, via contato sexual (oral, vaginal, anal) sem o uso de camisinha masculina ou feminina, com uma pessoa que esteja infectada. </p>
+                        <p>O desconhecimento e a falta do hábito da prevenção são os maiores aliados dessas doenças, que podem, em sua maioria, ser evitadas com medidas simples, como usar preservativo em todas as relações sexuais.</p>
+                        <p>O preservativo, ou camisinha, é o método mais conhecido, acessível e eficaz para se prevenir da infecção pelo HIV e outras infecções sexualmente transmissíveis (IST), como a sífilis, a gonorreia e também alguns tipos de hepatites. Além disso, ele evita uma gravidez não planejada.</p>
+                        <p>Existem dois tipos de camisinha: a masculina, que é feita de látex e deve ser colocada no pênis ereto antes da penetração e, a feminina, que é feita de latex ou borracha nitrílica, usada internamente na vagina.</p>
+                        <h2>Onde pegar os preservativos ?</h2>
+                        <p>Os preservativos masculino e feminino são distribuídos gratuitamente em qualquer serviço público de saúde. Caso você não saiba onde retirá-los, ligue para o Disque Saúde (136). </p>
+                        <p>Saiba que a retirada gratuita de preservativo nas unidades de saúde é um direito seu, por isso, não devem ser impostas quaisquer barreiras ou condições para que você os obtenha.</p>
+                        <h2>Como usar o preservativo masculino ?</h2>
+                        <img src="img/prev.png" alt="">
+                        <h3> Cuidados ao colocar a camisinha masculina:</h3>
+                        <p>1) Escolha uma marca boa. Carregue-a sempre com você. Cuidado ao deixar muito tempo na carteira, pois a embalagem poderá sofrer danos com o calor e o atrito, prejudicando, assim, a eficácia do produto;</p>
+                        <p>2) Abra delicadamente a embalagem. Cuidado para não furar a camisinha com suas unhas;</p>
+                        <p>3) Deixe um pequeno espaço na ponta da camisinha. Isso é importante;</p>
+                        <p>4) Aperte o espaço que ficou na ponta e coloque a camisinha, coloque a camisinha no pênis;</p>
+                        <p>5) Desenrole a camisinha até a base;</p>
+                        <p>6) Depois de usar, retire a camisinha. Cuidado para não deixar escapar o líquido que foi armazenado no interior da camisinha;</p>
+                        <p>7) Jogue no lixo. Camisinha é descartável. Nada de usar outra vez;                        </p>
+                        <p>8) Camisinhas lubrificadas são mais confortáveis e eficientes. Prefira as que possuem espermaticida junto;</p>
+                        <p>9) Não use cremes, óleos ou vaselinas. Se quiser usar um lubrificante, use preferencialmente em gel, específicos para relações sexuais.</p>
+                        <div class="iframe">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/i_OAvqpmHi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <small>Video explicativo em libras sobre como usar a camisinha masculino</small>
+                        </div>
+
+                        <h2>Importância dos exames de Rotina para o Homem</h2>
+                        <p>Além de fumar e beber em maior quantidade, apresentar hábitos mais sedentários e mais sobrepeso de maneira geral, os homens se expõem a mais riscos e costumam negar os processos de adoecimento devido a uma série de questões culturais e comportamentais. Como consequência disso dessa premissa, sua expectativa de vida é cerca de sete anos inferior à das mulheres.</p>
+                        <p>Diante de tal problemática, ocorre, sempre que possível, inúmeras campanhas de conscientização e incentivo a realização dos exames preventivos para homens, que além de detectar precocemente a doença e garantir tratamento imediato para facilitar o alcance de uma cura, tem-se a objetividade de redução da mortalidade e aumento da qualidade de vida o que leva concomitantemente a diminuição de custos acerca de tratamentos de doenças graves no futuro.</p>
+                        <h3>Quem deve fazer exames preventivos?</h3>
+                        <p>A realização periódica de exames preventivos para homens deve ser orientada de acordo com a faixa etária e com o histórico de saúde de cada beneficiário.</p>
+                        <p>Segundo a Organização Mundial da Saúde (OMS), a recomendação é que todos os homens com mais de 40 anos passem a fazer exames preventivos de dois em dois anos.</p>
+                        <p>Se já houver alguma patologia na família, as ações preventivas devem começar mais cedo, a partir dos 35 anos.</p>
+                        <p>Se o homem for fumante, sedentário, estiver acima do peso e tiver antecedentes familiares, a rotina de exames deve começar a partir dos 30 anos, com acompanhamento médico.</p>
+                        <p>Ao completar 50 anos todos os homens devem começar a fazer avaliações preventivas pelo menos duas vezes ao ano.</p>
+                        <h3>Principais exames preventivos para homens</h3>
+                        <p>- Exame de próstata para a detecção precoce do câncer em tal localidade;</p>
+                        <p>- Colonoscopia, exame do intestino grosso e da porção distal do íleo, verificando sua estrutura interna para detecção de possíveis alterações ou feridas que podem evoluir para tumores, além de detectar câncer no reto ou no intestino grosso;</p>
+                        <p>- Autoexame testicular, consiste no apalpamento do testículo para verificar se não há alterações no tamanho, na forma ou a ocorrência de dores na região escrotal;</p>
+                        <p>- Exames de sangue para a detecção de problemas como gota, diabetes, colesterol ou triglicérides altos, hipogonadismo, entre outros;</p>
+                        <p>- Exame de urina, investiga a presença de elementos anormais ou sedimentos que podem evidenciar o desenvolvimento de doenças renais, diabetes e hemorragias;</p>
+                        <p>- Exames cardiovasculares, inclui a aferição da pressão, teste ergométrico, ecocardiograma, raio-x do tórax e exame de ultrassom do coração. Se houver alguma alteração nos resultados, ou dependendo da idade e do histórico do paciente, o médico poderá complementar com outros exames mais específicos;</p>
                     </div>
                     <div class="aside">
                         <h1>Conteúdo</h1>
@@ -574,6 +712,67 @@
             </div> 
         </main>
 
+        <main class="modal_website" id="modal_virus">
+            <div class="scroll">
+                <div class="cabecalho" id="init">
+                    <span>
+                        <p><i class="fas fa-virus"></i>COVID-19</p>
+                        <a style="cursor: pointer;" id="hidden_virus"><i class="fas fa-long-arrow-alt-left"></i> VOLTAR</a>
+                    </span> 
+                    <h1>Veja informações importantes sobre o covid-19</h1>
+                </div>
+                <div class="article"> 
+                    <div class="text" style="width: 100%; display: flex; justify-content: center; align-items: flex-start; flex-direction: column;">
+                        <div class="iframe">
+                            <img src="img/covid.png" alt="">
+                        </div>
+                        <h3>O que é COVID-19?</h3>
+                        <p>A COVID-19 é uma doença causada pelo coronavírus SARS-CoV-2, que apresenta um quadro clínico que varia de infecções assintomáticas a quadros respiratórios graves. De acordo com a Organização Mundial de Saúde (OMS), a maioria dos pacientes com COVID-19 (cerca de 80%) podem ser assintomáticos e cerca de 20% dos casos podem requerer atendimento hospitalar por apresentarem dificuldade respiratória.</p>
+                        <h3>O que é o coronavírus?</h3>
+                        <p>Coronavírus é uma família de vírus que causam infecções respiratórias. O novo agente do coronavírus foi descoberto em 31/12/19 após casos registrados na China. </p>
+                        <p>Os primeiros coronavírus humanos foram isolados pela primeira vez em 1937. No entanto, foi em 1965 que o vírus foi descrito como coronavírus, em decorrência do perfil na microscopia, parecendo uma coroa.</p>
+                        <h3>Quais são os sintomas</h3>
+                        <p>Os sintomas da COVID-19 podem variar de um simples resfriado até uma pneumonia severa. Sendo os sintomas mais comuns: tosse, febre, dor de garganta, dificuldade para respirar.</p>
+                        <h3>Como é transmitido</h3>
+                        <p>A transmissão acontece de uma pessoa doente para outra ou por contato próximo como, toque do aperto de mão, gotículas de saliva, espirro, tosse, além de objetos ou superfícies contaminadas, como celulares, mesas, maçanetas, brinquedos, teclados de computador etc.</p>
+                        <h3>Diagnóstico</h3>
+                        <p>O diagnóstico da COVID-19 é realizado primeiramente pelo profissional de saúde que deve avaliar a presença de critérios clínicos: </p>
+                        <p>Pessoa com quadro respiratório agudo, caracterizado por sensação febril que pode ou não estar acompanhada de tosse OU dor de garganta OU coriza OU dificuldade respiratória;</p>
+                        <p>Pessoa com desconforto respiratório/dificuldade para respirar OU pressão persistente no tórax OU saturação de oxigênio menor do que 95%, o que é chamado de Síndrome Respiratória Aguda Grave.</p>
+                        <p>Caso o paciente apresente os sintomas, o profissional de saúde poderá solicitar exame laboratoriais.</p>
+                        <h3>Como se proteger</h3>
+                        <p>As recomendações de prevenção à COVID-19 consistem em:</p>
+                        <p>Lave com frequência as mãos até a altura dos punhos, com água e sabão, ou então higienize com álcool em gel 70%.</p>
+                        <p>Ao tossir ou espirrar, cubra nariz e boca com lenço ou com o braço, e não com as mãos.</p>
+                        <p>Evite tocar olhos, nariz e boca com as mãos não lavadas.</p>
+                        <p>Ao tocar, lave sempre as mãos como já indicado.</p>
+                        <p>Mantenha uma distância mínima de cerca de 2 metros de qualquer pessoa tossindo ou espirrando.</p>
+                        <p>Evite abraços, beijos e apertos de mãos. Adote um comportamento amigável sem contato físico, mas sempre com um sorriso no rosto.</p>
+                        <p>Não compartilhe objetos de uso pessoal, como talheres, toalhas, pratos e copos.</p>
+                        <p>Mantenha os ambientes limpos e bem ventilados.</p>
+                        <p>Evite circulação desnecessária nas ruas, estádios, teatros, shoppings, shows, cinemas e igrejas. Se puder, fique em casa.</p>
+                        <p>Se estiver doente, evite contato físico com outras pessoas, principalmente idosos e doentes crônicos, e fique em casa até melhorar.</p>
+                        <p>Durma bem e tenha uma alimentação saudável.</p>
+                        <p>Utilize máscaras caseiras ou artesanais feitas de tecido em situações de saída de sua residência. </p>
+                        <h3>Se eu ficar doente</h3>
+                        <p>Caso você se sinta doente, com sintomas de gripe, evite contato físico com outras pessoas, principalmente idosos e doentes crônicos e fique em casa por 14 dias.</p>
+                        <p>Só procure um hospital de referência se estiver com falta de ar.</p>
+                        <h3>Em caso de diagnóstico positivo para COVID-19, siga as seguintes recomendações:</h3>
+                        <p>Fique em isolamento domiciliar.</p>
+                        <p>Utilize máscara o tempo todo.</p>
+                        <p>Se for preciso cozinhar, use máscara de proteção, cobrindo boca e nariz todo o tempo.</p>
+                        <p>Depois de usar o banheiro, nunca deixe de lavar as mãos com água e sabão e sempre limpe vaso, pia e demais superfícies com álcool ou água sanitária para desinfecção do ambiente.</p>
+                        <p>Separe toalhas de banho, garfos, facas, colheres, copos e outros objetos apenas para seu uso.</p>
+                        <p>Procure um serviço de saúde apenas se apresentar falta de ar!!!!</p>
+                        <div class="iframe">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/qs9t9DJmMcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <small>Video explicativo em libras sobre covid-19</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
         <script>
             function show_content(){
                 let btn = document.getElementById("start");
@@ -617,6 +816,21 @@
             }
 
             show_content_local();
+
+            function show_content_virus(){
+                let btn = document.getElementById("start_virus");
+                let btn_close = document.getElementById("hidden_virus");
+
+                btn.addEventListener('click', function(){
+                    document.querySelector('#modal_virus').classList.toggle("out");
+                });
+
+                btn_close.addEventListener('click', function(){
+                    document.querySelector('#modal_virus').classList.toggle("out");
+                });
+            }
+
+            show_content_virus();
         </script>
     </body>
 </html>

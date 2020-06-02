@@ -240,12 +240,12 @@ $cor_con: #0acc9e;
 
         .card_link{
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
-            grid-gap: 40px;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-gap: 20px;
 
             a{
                 background-color: #ccc;
-                min-height: 20vh;
+                min-height: 15vh;
                 border-radius: 5px;
                 padding: 20px;
                 color: #fff;
@@ -278,7 +278,7 @@ $cor_con: #0acc9e;
                 }
 
                 &:hover{
-                    transform: scale(1.1);
+                    transform: scale(1.05);
                     box-shadow: 10px 10px 40px 1px #999;
                 }
             }
