@@ -37,7 +37,7 @@
             </div>
             <section class="help_banner">
                 <h1>QUEM SOMOS NÓS ?</h1>
-                <p>Seja bem-vindo a essa dimensão que é dedicada exclusivamente a você da comunidade surda. Nosso objetivo é incluir vocês dentro do nosso programa de informações de saúde onde encontrará tudo o que preicsar para manter o equilíbrio do seu corpo. <strong style="font-weight: bold;">fique a vontade e navegue em nosso site.</strong></p>
+                <p>Seja bem-vindo a essa dimensão que é dedicada exclusivamente a você da comunidade surda. Nosso objetivo é incluir vocês dentro do nosso programa de informações de saúde onde encontrará tudo o que preicsar para manter o equilíbrio do seu corpo. <strong style="font-weight: bold;">Fique a vontade e navegue em nosso site.</strong></p>
                 <!-- <form method="post">
                     <div class="search_box">
                         <input type="text" name="ask" placeholder="Search">
@@ -65,7 +65,7 @@
                     <a style="cursor: pointer;" id="start_virus">
                         <span><i class="fas fa-virus"></i></span>
                         <h2>COVID-19</h2>
-                        <p>Informe-se a respeito dos sintomas, prevensão, diagnóstico e entre outras informações sobre a covid-19</p>
+                        <p>Informe-se a respeito dos sintomas, prevenção, diagnóstico e entre outras informações sobre a COVID-19.</p>
                     </a>
                 </div>
             </article>
@@ -719,7 +719,7 @@
                         <p><i class="fas fa-virus"></i>COVID-19</p>
                         <a style="cursor: pointer;" id="hidden_virus"><i class="fas fa-long-arrow-alt-left"></i> VOLTAR</a>
                     </span> 
-                    <h1>Veja informações importantes sobre o covid-19</h1>
+                    <h1>Veja informações importantes sobre o COVID-19</h1>
                 </div>
                 <div class="article"> 
                     <div class="text" style="width: 100%; display: flex; justify-content: center; align-items: flex-start; flex-direction: column;">
